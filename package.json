@@ -1,5 +1,5 @@
 {
-  "name": "tacc-web-content--sc19",
+  "name": "tacc-web-staff-dir",
   "version": "1.0.0",
   "description": "A utility to create markup for Staff Directory pages based on flatfile data",
   "main": "index.js",
