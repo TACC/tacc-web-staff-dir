@@ -456,3 +456,15 @@ entries:
               - IPDP Administrator a Dell IDRAC check-out system. Coded from PHP, Python and local RACADM commands. Supported the software and the hardware for the system.
               - Resolution Management and Administration for Linux based systems. Assisting with development of front line agents and time sensitive issues from high value clients.
               - Production of Flight Simulators used for the training of NASA / Boeing pilots. Assisted in the engineering and re-design of some elements.
+
+  ari-kahn:
+    name:
+      first: Ari
+      last: Kahn
+      code: ari-kahn
+    title: Human Translational Genomics Coordinator
+    group: Life Sciences Computing Group
+    phone: 512-232-8284
+    email: akahn@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/ari.jpeg
