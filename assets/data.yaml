@@ -470,3 +470,56 @@ entries:
     email: akahn@tacc.utexas.edu
     url:
       image: /documents/1084364/1085221/ari.jpeg
+
+  miriam-jacobson:
+    name:
+      first: Miriam
+      last: Jacobson
+      code: miriam-jacobson
+    title: Research Associate
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 512-475-9411
+    email: mjacobson@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Miriam Jacobson joined TACC in 2020 as a Research Associate in Expanding Pathways in Computing (EPIC), where she evaluates STEM education programs. She previously worked at ICF as a Lead Research Scientist and studied workforce development initiatives at the federal and local level. Miriam received her PhD from Claremont Graduate University in Evaluation and Applied Research Methods. She has conducted research on culturally responsive evaluation approaches and the dissemination of evidenced-based practices.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 5
+            show-research: TRUE
+            research:
+              - Culturally Responsive Evaluation
+              - Evaluation Use and Dissemination
+          - layout:
+              colspan: 7
+            show-organizations: TRUE
+            organizations:
+              - American Evaluation Association
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                Jacobson, M. R., &amp; Azzam, T. (2018). The effects of stakeholder involvement on perceptions of an evaluation’s credibility. <em>Evaluation and Program Planning, 68, 64–73.</em>
+              - |-
+                Jacobson, M. R., Whyte, C. E., &amp; Azzam, T. (2018). Using crowdsourcing to code open-ended responses: A mixed methods approach. <em>American Journal of Evaluation, 39(3), 413–429.</em>
+              - |-
+                Jacobson, M. R., &amp; Azzam, T. (2016). Methodological credibility: An empirical investigation of the public’s perception of evaluation findings and methods. _Evaluation Review, 40(1), 29–60.</em>
+              - |-
+                Azzam, T., &amp; Jacobson, M. R. (2015). Reflections on the future of research on evaluation. <em>New Directions for Evaluation, 148, 103–116.</em>
+              - |-
+                Azzam, T., &amp; Jacobson, M. R. (2013). Finding a comparison group: Is online crowdsourcing a viable option? <em>American Journal of Evaluation, 34(3), 372–384.</em>
+              - |-
+                Jacobson, M. R., Azzam, T., &amp; Baez, J. G. (2013). The nature and frequency of inclusion of people with disabilities in program evaluation. <em>American Journal of Evaluation, 34(1), 23–44.</em>
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: Ph.D., Evaluation and Applied Research Methods
+                school: Claremont Graduate University
+              - degree: M.A., Evaluation and Applied Research Methods
+                school: Claremont Graduate University
+              - degree: B.A., Neuroscience and Psychology
+                school: Brandeis University
