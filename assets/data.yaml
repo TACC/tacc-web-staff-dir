@@ -233,13 +233,14 @@ entries:
             show-publications: TRUE
             publications:
               sections:
-                - custom_heading: Journal
+                - custom_heading: Journals
                   items:
                     - 'Amit Ruhela, Hari Subramoni, Sourav Chakraborty, Mohammadreza Bayatpour, Pouya Kousha, and Dhabaleswar K. Panda. "Efficient design for MPI asynchronous progress without dedicated resources", Parallel Computing, Volume 85, 2019, Pages 13-26, ISSN 0167-8191, Impact Factor: 0.938'
                     - 'Srinivasan Ramesh, Aurèle Mahéo, Sameer Shende, Allen D. Malony, Hari Subramoni, Amit Ruhela, Dhabaleswar K. (DK) Panda, "MPI performance engineering with the MPI tool interface: The integration of MVAPICH and TAU, Parallel Computing", Volume 77, 2018, Pages 19-37, ISSN 0167-8191, Impact Factor: 0.938'
                     - 'Amit Ruhela, Amitabha Bagchi, Anirban Mahanti and Aaditeshwar Seth. "The rich and middle classes on Twitter: Are popular users indeed different from regular users", Special issue on Online Social Networks in Elsevier COMCOM Journal, ISSN 0140-3664, Jul 2015, Impact Factor: 2.099, h5-index :49, h5-median : 71'
                 - custom_heading: Conferences
                   items:
+                    - 'Amit Ruhela, Shulei Xu, Karthik V. Manian, Hari Subramoni, and Dhabaleswar K. Panda. "Analyzing and Understanding the Impact of Interconnect Performance on HPC, Big Data and Deep Learning Applications: A Case Study with InfiniBand EDR and HDR", In Proceedings of the IPDPS''20 - SNACS workshop. New Orleans, Louisiana, USA'
                     - 'Amit Ruhela, Bharath Ramesh, Sourav Chakraborty, Hari Subramoni, Jahanzeb Maqbool Hashmi, and Dhabaleswar K. (DK) Panda. "Leveraging Network-level parallelism with Multiple Process-Endpoints for MPI Broadcast", In Proceedings of the Third Annual Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware (IPDRM ''19). Denver, Colorado, USA'
                     - 'Karthik Vadambacheri Manian, Ammar Ahmad Awan, Amit Ruhela, Ching-Hsiang Chu, Hari Subramoni, and Dhabaleswar K. Panda. "Characterizing CUDA Unified Memory (UM)- Aware MPI Designs on Modern GPU Architectures", In Proceedings of the 12th Workshop on General Purpose Processing Using GPUs (GPGPU ''19). ACM, New York, NY, USA'
                     - 'Amit Ruhela, Hari Subramoni, Sourav Chakraborty, Mohammadreza Bayatpour, Pouya Kousha, and Dhabaleswar K. Panda. 2018. "Efficient Asynchronous Communication Progress for MPI without Dedicated Resources", In Proceedings of The EuroMPI 2018 (EuroMPI 2018). ACM, New York, NY, USA, 11 pages. Rank : B1(QUALIS)'
@@ -247,8 +248,6 @@ entries:
                     - 'Sebastien Ardon, Amitabha Bagchi, Anirban Mahanti, Amit Ruhela, Aaditeshwar Seth, Rudra Mohan Tripathy and Sipat Triukose, "Spatio-Temporal and Events Based Analysis of Topic Popularity in Twitter", 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013), Oct. 2013, Rank: A(CORE13,ERA), A1(QUALIS)'
                     - 'Amit Ruhela. "Scalable content distribution for social networking websites", 4th International Conference on Communication Systems and Networks (COMSNETS). 3-7 Jan. 2012, [doi](): 0.1109/COM- SNETS.2012.6151360 Best presentation in PhD forum Acceptance Rate: 27.9%'
                     - 'Amit Ruhela, Rudra Mohan Tripathy, Sipat Triukose, Sebastien Ardon, Amitabha Bagchi, and Aaditeshwar Seth. "Towards the use of online social networks for efficient Internet content distribution", 5th International Conference on Advanced Networks and Telecommunication Systems (ANTS), Dec. 2011, Acceptance Rate: 35%'
-                    - |
-                      Amit Ruhela, Shulei Xu, Karthik V. Manian, Hari Subramoni, and Dhabaleswar K. Panda. "Analyzing and Understanding the Impact of Interconnect Performance on HPC, Big Data and Deep Learning Applications: A Case Study with InfiniBand EDR and HDR", In Proceedings of the IPDPS'20 - SNACS workshop. New Orleans, Louisiana, USA
       - info-cols:
           - layout:
               colspan: 6
@@ -376,7 +375,7 @@ entries:
     phone: 512-475-9411
     email: sharrell@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/stephen-harrell.png
     biography: |-
       Stephen joined TACC in 2020 as member of the HPC Performance & Architectures group. Prior to TACC he served as a Senior Computational Scientist in Research Computing at Purdue University. Previously, Stephen spent more than 6 years as a Senior HPC System Administrator at Purdue and has more than 15 years of experience in system administration at scale. 
     info-rows: 
