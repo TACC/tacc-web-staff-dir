@@ -522,3 +522,60 @@ entries:
                 school: Claremont Graduate University
               - degree: B.A., Neuroscience and Psychology
                 school: Brandeis University
+
+  nicola-hendricks:
+    name:
+      first: Nicola (Nikki)
+      last: Hendricks
+      code: nicola-hendricks
+    title: CyberSecurity Education Specialist
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 512-475-9411
+    email: nhendricks@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/nicola-hendricks.jpg
+    biography: |-
+      Nikki joined TACC and EPIC as a Cybersecurity Education Specialist in June 2020.  She will be helping to set up the first Texas Cyber Range which will provide a virtual lab and cybersecurity lessons for students across Texas. She will also be writing cybersecurity curriculum for Texas public school students as well as developing and leading professional development for school educators.
+
+      Nikki is a 20-year veteran educator who has traveled down a winding path to reach her passion.  She started her career as an elementary teacher in San Angelo, TX., spent twelve years as a middle school and high school librarian, and then moved into the wonderful world of Computer Science and Cybersecurity in Austin, TX.  She is a life-long learner and is pursuing a degree in Cybersecurity and Information Assurance at Western Governors University.  Nikki holds industry CompTIA A+, Network+, and Security+ certifications, the ITILv3 Foundations certification, and the EC-Council Encryption Specialist v2 certification.  This past year, she taught the first ever Cybersecurity class at Lake Travis High School with students working toward the CompTIA Security+ certification, learning about Cyber Defense, and participating in CTFs.  Nikki has also coached several teams in the AFA CyberPatriots competition and Girls Go CyberStart competition.  She is very honored to be a NCWIT 2020 Texas: Austin Affiliate Educator Award Honorable Mention.
+
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 5
+            show-projects: TRUE
+            projects:
+              - Texas Cyber Range
+              - Cybersecurity Curriculum Development
+          - layout:
+              colspan: 7
+            show-organizations: TRUE
+            organizations:
+              - Women in Cybersecurity Central Texas, VP Communications
+              - Women in Cybersecurity National
+              - Information Systems Security Association
+              - ISACA
+              - Computer Science Teachers Association
+              - Texas Computer Education Association
+              - WGU Cybersecurity Club
+      - info-cols:
+          - layout:
+              colspan: 5
+            custom_heading: Teaching Certifications
+            show-custom_list--unordered: TRUE
+            custom_list--unordered:
+              - Computer Science 8-12
+              - Learning Resources Endorsement K-12
+              - Elementary Mathematics 1-8
+              - Elementary Self-Contained 1-8
+          - layout:
+              colspan: 7
+            show-education: TRUE
+            education:
+              - degree: B.S., Cybersecurity and Information Assurance
+                school: Western Governors University
+                year: Dec. 2021
+              - degree: MLIS, Library and Information Science
+                school: University of Texas at Austin
+              - degree: B.S., Education
+                school: Texas Tech University
