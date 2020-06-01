@@ -579,3 +579,30 @@ entries:
                 school: University of Texas at Austin
               - degree: B.S., Education
                 school: Texas Tech University
+
+  christian-garcia:
+    name:
+      first: Christian
+      last: Garcia
+      code: christian-garcia
+    title: Engineering Scientist Associate
+    group: Cloud & Interactive Computing (CIC)
+    phone: 512-981-9975
+    email: cgarcia@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Christian began working part-time at TACC with an REU internship in January 2019 after taking TACC led classes as a Computational Engineering student at UT. He continued with TACC after graduation with a professional internship starting in December 2019. He is currently working in CIC on Abaco.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - Abaco
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., Computational Engineering
+                school: The University of Texas at Austin
