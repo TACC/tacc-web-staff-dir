@@ -606,3 +606,33 @@ entries:
             education:
               - degree: B.S., Computational Engineering
                 school: The University of Texas at Austin
+
+  kirby-rankin:
+    name:
+      first: Kirby
+      last: Rankin
+      code: kirby-rankin
+    title:  A&P Hourly
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 325-656-0739
+    email: krankin@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Kirby Rankin joined WeTeach in July of 2018 and is the co-author of Foundations of CS for Teachers: Praxis Prep and WeTeach_AP®CSA and has served as editor and proofreader for several other WeTeach courses. Kirby is a retired high school computer science teacher from San Angelo, Texas. He taught computer science at Pecos High School for seven years and then Wall High School for 18 years. Kirby served on the committee that developed the current TEKS (Texas Essential Knowledge and Skills) for computer science in Texas. He has coached eleven individual or team state champions in Computer Science and Computer Applications for Texas University Interscholastic League competitions. Kirby was selected to receive the Texas UIL Sponsor Excellence Award in 2012. He is currently the author of the written exam for the UIL Computer Science statewide competition. Kirby has also written guides and practice exams for Hexco Academics in Hunt, Texas.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - WeTeach_AP®CSA
+              - WeTeach_AP®CSA Professional Development
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S.
+                school: Texas Tech University
+              - degree: M. Ed.
+                school: University of Texas, Permian Basin
