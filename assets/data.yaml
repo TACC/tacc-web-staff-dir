@@ -636,3 +636,25 @@ entries:
                 school: Texas Tech University
               - degree: M. Ed.
                 school: University of Texas, Permian Basin
+
+  alex-ferrier:
+    name:
+      first: Alex
+      last: Ferrier
+      code: alex-ferrier
+    title: Help Desk Specialist
+    group: Networking, Security, Operations
+    phone: 512-475-9411
+    email: aferrier@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Before joining the Networking, Security & Operations group of the Texas Advanced Computing Center in July of 2020, Alex had also worked as a Help Desk Specialist for companies such as HomeAway.com, Advanced Micro Devices, and Keller Williams Realty Intl.  Alex had gotten my start, however, working for Dell providing technical support over the phone to its external customer base.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.A., Psychology
+                school: University of Texas at Austin
