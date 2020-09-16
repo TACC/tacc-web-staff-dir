@@ -661,7 +661,6 @@ entries:
                 school: University of Texas at Austin
 
   - stephanie-zeller:
-    should-render: TRUE
     name:
       first: Stephanie
       last: Zeller
@@ -702,3 +701,58 @@ entries:
                 school: University of Texas at Austin
               - degree: Minor, Spanish
                 school: University of Texas at Austin
+
+  - joy-schwartz:
+    should-render: TRUE
+    name:
+      first: Joy
+      last: Schwartz
+      code: joy-schwartz
+    title: A&P Hourly
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 409-363-9594
+    email: jschwartz@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/joy-schwartz.jpg
+    biography: |-
+      Joy Schwartz joined TACC and EPIC in September of 2020, and will be developing and delivering computer science PD and test certification prep.  Joy is a retired high school computer science and mathematics teacher with 30 years of experience in the classroom, and two years as a district STEM Coordinator, in Central and Southeast Texas.  She is also one of the inaugural recipients of the We Teach_CS Change Maker award (2016), has delivered PD for EPIC and WeTeach_CS since 2017, and has served on the board of directors for TCEA.  Joy has coached numerous UIL and TMSCA teams over the years in the areas of computer science, mathematics, number sense, calculator and robotics.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 4
+            show-research: TRUE
+            research:
+              - K-12 Computer Science
+              - Equity in Computer Science
+              - STEM Education
+              - Robotics and drones (coding)
+          - layout:
+              colspan: 8
+            show-organizations: TRUE
+            organizations:
+              - TCEA, (former Board member)
+              - Space Foundation International Teacher Liaison, 2020 Cohort
+              - Dremel Idea Builder Ambassador
+              - CSTA
+          - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              - WeTeachCS
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: "B.S., Secondary Education specializing in<br />
+                  Computer Science and Mathematics"
+                school: East Texas Baptist University
+              - degree: M.Ed., Instructional Technology
+                school: Sam Houston State University
+          - layout:
+              colspan: 6
+            custom_heading: Teaching Certifications
+            show-custom_list--unordered: TRUE
+            custom_list--unordered:
+              - Computer Information Systems, 6-12
+              - Mathematics, 6-12
+              - ESL, 6-12
