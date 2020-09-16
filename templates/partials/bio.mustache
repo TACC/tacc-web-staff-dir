@@ -37,7 +37,7 @@
             {{#custom_heading}}<h2>{{custom_heading}}</h2>{{/custom_heading}}
             <ul>
                 {{#custom_list--unordered}}
-                <li>{{.}}</li>
+                <li>{{{.}}}</li>
                 {{/custom_list--unordered}}
             </ul>
             {{/show-custom_list--unordered}}
@@ -63,8 +63,8 @@
             {{^custom_heading}}<h2>Education</h2>{{/custom_heading}}
             {{#education}}
 
-                <h4>{{#degree}}{{degree}}{{/degree}}{{^degree}}&mdash;{{/degree}}</h4>
-                {{#school}}<p>{{school}}{{#year}}, {{year}}{{/year}}</p>{{/school}}
+                <h4>{{#degree}}{{{degree}}}{{/degree}}{{^degree}}&mdash;{{/degree}}</h4>
+                {{#school}}<p>{{{school}}}{{#year}}, {{year}}{{/year}}</p>{{/school}}
             {{/education}}
             {{/show-education}}
             {{! Section: Publications }}
