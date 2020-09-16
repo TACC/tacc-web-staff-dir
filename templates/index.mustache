@@ -1,34 +1,27 @@
 {{#entries}}
+{{#should-render}}
+<!-- STAFF: {{name.first}} {{name.last}} ({{name.code}}) -->
 
-{{! Replace the text in `#__` and `/__` with code name of the staff to render}}
-{{#alex-ferrier}}
-
-<!-- DIRECTORY ROW -->
+<!-- STAFF (Directory Row) -->
 <!-- For "Staff Directory" (Full Time) table at `/about/directory` -->
 
 {{> row}}
 
 
 
-
-<!-- IMAGE CONTENT -->
+<!-- STAFF (Image Content) -->
 <!-- For "Staff Image" Web Content at `/about/directory/firstname-lastname` -->
-
 
 {{> img}}
 
 
 
-
-<!-- BIO CONTENT -->
+<!-- STAFF (Bio Content) -->
 <!-- For "Staff Bio" Web Content at `/about/directory/firstname-lastname` -->
-
 
 {{> bio}}
 
 
 
-
-{{/alex-ferrier}}
-
+{{/should-render}}
 {{/entries}}

@@ -1,5 +1,6 @@
 entries:
-  sample-dude:
+  - sample-dude:
+    should-render: FALSE
     name:
       first: Sample
       last: Dude
@@ -72,7 +73,7 @@ entries:
               - Book 1 of Things
               - Book 2 of Stuff
 
-  tony-violante:
+  - tony-violante:
     name:
       first: Tony
       last: Violante
@@ -108,7 +109,7 @@ entries:
               - degree: MBA, Finance
                 school: Rensselaer Polytechnic University
 
-  nashid-afreen:
+  - nashid-afreen:
     name:
       first: Nashid
       last: Afreen
@@ -137,7 +138,7 @@ entries:
               - degree: B.S., Electrical Engineering
                 school: Bangladesh University of Engineering & Technology
 
-  aubrey-white:
+  - aubrey-white:
     name:
       first: Aubrey
       last: White
@@ -188,7 +189,7 @@ entries:
               - Command and Control Systems Architecture, U.S. Army War College
               - A Macro Look at Modeling and Simulation as a Combat Multiplier, U.S. Army, Ft. Hood
 
-  amit-ruhela:
+  - amit-ruhela:
     name:
       first: Amit
       last: Ruhela
@@ -260,7 +261,7 @@ entries:
               - degree: B. Tech in Computer Science
                 school: NIT Kurukshetra
 
-  pat-scherer:
+  - pat-scherer:
     name:
       first: Pat
       last: Scherer
@@ -290,7 +291,7 @@ entries:
               - degree: Certified Scrum Master (CSM)
                 school: Scrum Alliance
 
-  brajesh-gupt:
+  - brajesh-gupt:
     name:
       first: Brajesh
       last: Gupt
@@ -332,7 +333,7 @@ entries:
               - degree: Ph.D., Physics
                 school: Louisiana State University, Baton Rouge LA
 
-  owais-jamil:
+  - owais-jamil:
     name:
       first: Owais
       last: Jamil
@@ -344,7 +345,7 @@ entries:
     url:
       image: 
 
-  janie-bushn:
+  - janie-bushn:
     name:
       first: Janie
       last: Bushn
@@ -365,7 +366,7 @@ entries:
             education:
               - degree: BBA, Management
 
-  stephen-harrell:
+  - stephen-harrell:
     name:
       first: Stephen
       last: Harrell
@@ -421,7 +422,7 @@ entries:
             organizations:
               - Student Programs Coordinator, ACM SIGHPC
 
-  loren-cain:
+  - loren-cain:
     name:
       first: Loren
       last: Cain
@@ -435,7 +436,7 @@ entries:
     biography: 
     info-rows: 
 
-  andrew-hardy:
+  - andrew-hardy:
     name:
       first: Andrew
       last: Hardy
@@ -458,7 +459,7 @@ entries:
               - Resolution Management and Administration for Linux based systems. Assisting with development of front line agents and time sensitive issues from high value clients.
               - Production of Flight Simulators used for the training of NASA / Boeing pilots. Assisted in the engineering and re-design of some elements.
 
-  ari-kahn:
+  - ari-kahn:
     name:
       first: Ari
       last: Kahn
@@ -470,7 +471,7 @@ entries:
     url:
       image: /documents/1084364/1085221/ari.jpeg
 
-  miriam-jacobson:
+  - miriam-jacobson:
     name:
       first: Miriam
       last: Jacobson
@@ -523,7 +524,7 @@ entries:
               - degree: B.A., Neuroscience and Psychology
                 school: Brandeis University
 
-  nikki-hendricks:
+  - nikki-hendricks:
     name:
       first: Nikki
       last: Hendricks
@@ -580,7 +581,7 @@ entries:
               - degree: B.S., Education
                 school: Texas Tech University
 
-  christian-garcia:
+  - christian-garcia:
     name:
       first: Christian
       last: Garcia
@@ -607,7 +608,7 @@ entries:
               - degree: B.S., Computational Engineering
                 school: The University of Texas at Austin
 
-  kirby-rankin:
+  - kirby-rankin:
     name:
       first: Kirby
       last: Rankin
@@ -637,7 +638,7 @@ entries:
               - degree: M. Ed.
                 school: University of Texas, Permian Basin
 
-  alex-ferrier:
+  - alex-ferrier:
     name:
       first: Alex
       last: Ferrier
@@ -659,7 +660,8 @@ entries:
               - degree: B.A., Psychology
                 school: University of Texas at Austin
 
-  stephanie-zeller:
+  - stephanie-zeller:
+    should-render: TRUE
     name:
       first: Stephanie
       last: Zeller
