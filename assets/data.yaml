@@ -658,3 +658,45 @@ entries:
             education:
               - degree: B.A., Psychology
                 school: University of Texas at Austin
+
+  stephanie-zeller:
+    name:
+      first: Stephanie
+      last: Zeller
+      code: stephanie-zeller
+    title: Research Engineering/Scientist Professional (part-time)
+    group: Scalable Visualization Technologies, Visualization Interfaces & Applications
+    phone: 512-475-9411
+    email: szeller@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Stephanie Zeller is a scientific visualization, communication, and storytelling researcher at the Texas Advanced Computing Center (TACC) and The University of Texas at Austin. Her primary research interests include data physicalization and visceralization, innovative and interactive data-based storytelling techniques, color theory in visualization, and interdisciplinary approaches to science communication, including intersectional feminism, community organizing and literature humanities. Zeller’s recent work has focused on improved colormapping methodologies for largescale and multivariate climate data and place-based climate visualization for public audiences. 
+
+      Prior to joining the TACC team, Zeller worked as a researcher for Los Alamos National Labs and in communications for NASA’s Johnson Space Center, NASA’s Goddard Space Flight Center, the Texas Health Journal, and others. Her research has been featured at the American Geophysical Union and PEARC annual conferences, on the cover of IEEE Xplore Magazine, and highlights of her writing and graphics work include AGU’s Eos magazine, numerous NASA channels, the Texas Health Journal, Apple Podcasts, StarDate Magazine and Radio, GetUsPPE and others. 
+
+      In her free time, Zeller volunteers for non-profit pandemic response organization GetUsPPE as a data visualization and public relations strategist, paints, hikes, and plays soccer. She holds a B.A. in Studio Art, a B.S. in Public Relations, and minors in Spanish and Business from the University of Texas at Austin.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              - Scientific Data Visualization
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - Color, Data Physicalization, Storytelling, Science Communication
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.S., Public Relations
+                school: University of Texas at Austin
+              - degree: B.A., Studio Art
+                school: University of Texas at Austin
+              - degree: Certificate, Business
+                school: University of Texas at Austin
+              - degree: Minor, Spanish
+                school: University of Texas at Austin
