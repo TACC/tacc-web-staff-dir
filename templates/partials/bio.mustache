@@ -1,3 +1,8 @@
+<style id="style--s-template">
+    .s-template--directory .phone--extra {
+        display: inline-block;
+        margin: 0.5em 0 0.25em;
+    }</style>
 <div class="s-template--directory">
 
     <!-- Core Information -->
@@ -12,7 +17,8 @@
         </div>
         <div class="col-xs-5 contact-col">
             <h4 class="align-rt">
-                {{phone}}<br />
+                <span class="phone">{{phone}}</span>{{#phone_mobile}}<br />
+                <small class="phone--extra">{{phone_mobile}} (mobile)</small>{{/phone_mobile}}<br />
                 <a href="mailto:{{email}}">{{email}}</a></h4>
         </div>
     </div>

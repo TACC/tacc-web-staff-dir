@@ -639,18 +639,20 @@ entries:
                 school: University of Texas, Permian Basin
 
   - alex-ferrier:
+    should-render: TRUE
     name:
       first: Alex
       last: Ferrier
       code: alex-ferrier
     title: Help Desk Specialist
     group: Networking, Security, Operations
-    phone: 512-475-9411
+    phone: (512) 471-0696
+    phone_mobile: (412) 259-3713
     email: aferrier@tacc.utexas.edu
     url:
       image: 
     biography: |-
-      Before joining the Networking, Security & Operations group of the Texas Advanced Computing Center in July of 2020, Alex had also worked as a Help Desk Specialist for companies such as HomeAway.com, Advanced Micro Devices, and Keller Williams Realty Intl.  Alex had gotten my start, however, working for Dell providing technical support over the phone to its external customer base.
+      Alex joined TACC in July of 2020 as a Helpdesk Specialist responsible for on-site after-hours monitoring of the performance, stability, and security of the datacenter.  He mans the main TACC phone line for calls regarding critical issues or site emergencies, and routes incoming support request tickets to their appropriate parties.  He is always available as an on-site resource to remote Systems Admins to assist with the repair and upgrade of datacenter assets.
     info-rows:
       - info-cols:
           - layout:
@@ -703,7 +705,6 @@ entries:
                 school: University of Texas at Austin
 
   - joy-schwartz:
-    should-render: TRUE
     name:
       first: Joy
       last: Schwartz
