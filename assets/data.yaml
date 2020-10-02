@@ -758,7 +758,6 @@ entries:
               - ESL, 6-12
 
   - smruti-padhy:
-    should-render: TRUE
     name:
       first: Smruti
       last: Padhy
@@ -821,3 +820,37 @@ entries:
                 school: Indian Institute of Technology Delhi
               - degree: M.Tech., Computer Science & Engineering
                 school: Indian Institute of Technology Guwahati
+
+  - garner-vincent:
+    should-render: TRUE
+    name:
+      first: Garner
+      last: Vincent
+      code: garner-vincent
+    title: Engineering Scientist
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 512-232-8063
+    email: gvincent@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/garner-vincent.png
+    biography: |-
+      Garner joined TACC in 2019 and works on web applications and data systems supporting K-12 computer science initiatives across the nation. He has worked as a software developer for UT since 2015 and currently leads development on UTakeIt and the CCRSM portal. His other responsibilities include archival database management for the TRC, TEX2 and WeTeach_CS projects, managing EPIC's online course presence in Canvas, and organizing technical communications efforts for EPIC.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - EPIC
+              - ECEP Alliance
+              - WeTeach_CS
+              - UTakeIt
+              - CCRSM
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S.A., Biology
+                school: University of Texas at Austin
+              - degree: Certificate, Elements of Computing
+                school: University of Texas at Austin
