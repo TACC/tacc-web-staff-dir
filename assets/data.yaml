@@ -853,3 +853,59 @@ entries:
                 school: University of Texas at Austin
               - degree: Certificate, Elements of Computing
                 school: University of Texas at Austin
+
+  - allen-antoine:
+    should-render: TRUE
+    name:
+      first: Allen J.
+      last: Antoine
+      suffix: Jr.
+      code: allen-antoine
+    title: A&P Hourly (part-time)
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 512-475-9411
+    email: ajantoine@rice.edu
+    url:
+      image: 
+    biography: |-
+      Allen Antoine is a STEM and School Culture Education Specialist who has traveled across the country facilitating teacher preparation courses for various high school computer science certifications.  In his role as Project Director for the Computer Educator Diversity Initiative (CEDI), he trains educators in equitable teaching practices in computer science courses while preparing them for the unique challenges of teaching computer science with diversity in mind.  Allen has over 15 years of experience in the educational field, working with elementary students to improve their literacy and numeracy skills, teaching 8th grade mathematics and Algebra I and developing curriculum for Alief ISD and Rice University.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-research: TRUE
+            research:
+              - Inquiry-Based Learning
+              - Equity in Computer Science
+              - Culturally Responsive Teaching Strategies
+              - K-12 Computer Science
+          - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              - Computer Educator Diversity Initiative (CEDI) 
+              - Strategies for Effective and Inclusive CS Teaching (online course)
+          - layout:
+              colspan: 12
+            show-organizations: TRUE
+            organizations:
+              - CSTA, Computer Science Teachers Association
+              - NCTM, National Council of Teachers of Mathematics
+              - STAT, Science Teachers Association of Texas
+      - info-cols:
+          - layout:
+              colspan: 5
+            show-education: TRUE
+            education:
+              - degree: B.S., Computer Engineering
+                school: Xavier University of Louisiana
+              - degree: M.Ed., Teacher Leadership
+                school: Lamar University
+          - layout:
+              colspan: 7
+            custom_heading: Teaching Certifications
+            show-custom_list--unordered: TRUE
+            custom_list--unordered:
+              - Computer Science, Grades (8-12)
+              - Mathematics, Grades (8-12)
+              - English as a Second Language, Grades (8-12)
