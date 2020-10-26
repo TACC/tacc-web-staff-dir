@@ -1,8 +1,9 @@
 # TACC Website SC19+ Page
 
-This project compiles data into templates to create markup for the body of the [TACC Staff Directory][tacc-dir].
+This project compiles data into templates to create markup for the body of the TACC SC (Supercomputing) pages:
 
-[tacc-dir]: https://www.tacc.utexas.edu/about/directory "TACC: About: Staff Directory"
+- [SC19](https://www.tacc.utexas.edu/sc19 "TACC: SC19")
+- [SC20](https://www.tacc.utexas.edu/sc20 "TACC: SC20")
 
 ## Usage
 
