@@ -911,7 +911,7 @@ entries:
               - English as a Second Language, Grades (8-12)
 
   - virginia-trueheart:
-    should-render: TRUE
+    should-render: FALSE
     name:
       first: Virginia
       last: Trueheart
@@ -941,3 +941,53 @@ entries:
                 school: Colorado College
               - degree: M.S.I.S., Information Studies
                 school: University of Texas at Austin
+
+  - adam-gaither:
+    should-render: TRUE
+    name:
+      first: Adam
+      last: Gatiher
+      code: adam-gaither
+    title: Senior Software Architect – TAS
+    group: Strategic Initiatives
+    phone: 512-475-9411
+    email: agaither@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/adam-gaither.jpg
+    biography: |-
+      For the last 29+ years Adam has held leadership and software development roles in industry and academia.  His roles have spanned a wide range of engineering domains including CFD, CPU design, tactical data communications, SONAR, combat systems, and instrumentation manufacturing for aerospace and nuclear power applications.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            custom_heading: Current Role
+            show-custom_list--paragraph: TRUE
+            custom_list--paragraph: Leading the redesign and implementation of the TACC Allocation System (TAS).
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              - Distributed systems design
+              - Agile software development
+              - Grid generation
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - "Gaither, A., S. Bell and T. White.  An Open Approach to Open Architectures, Interoperable Open Architecture conference, London, UK, 26 - 28 October, 2011"
+              - "Gaither, A.  The Ultra Open Architecture Integrated Services (OASIS) Toolkit, UDT Europe, Cannes France, 2009"
+              - "Gaither, A.  A Flexible Service Oriented Architecture (SOA) for Network Centric Warfare and Battle Space Concurrent Processing, Undersea Defense Technology (UDT) Europe, Glasgow UK, 2008"
+              - "Gaither, A, D. Marcum and B. Mitchell. SolidMesh: A Solid Modeling approach to Unstructured Grid Generation. In Proceedings of the 7th International Conference on Numerical Grid Generation in Computational Field Simulations, held at Whistler, British Columbia, Canada, September 25-28, 2000"
+              - "Sheng, C., D. Hyams, K. Sreenivas, A. Gaither, D. Marcum and D. Whitfield. 1999. Three-dimensional incompressible Navier-Stokes flow computations about complete configurations using a multi-block unstructured grid approach. In Proceedings of the 37th AIAA Aerospace Sciences Meeting and Exhibit, held in Reno, NV, January 11-14, 1999. AIAA 99-0778"
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.S., Computer Science
+                school: Texas A&M University
+              - degree: M.S., Computer Science
+                school: Mississippi State University
+              - degree: Executive Development Program (EDP)
+                school: Kellogg Business School at Northwestern University
