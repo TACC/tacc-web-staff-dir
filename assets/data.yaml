@@ -909,3 +909,34 @@ entries:
               - Computer Science, Grades (8-12)
               - Mathematics, Grades (8-12)
               - English as a Second Language, Grades (8-12)
+
+  - virginia-trueheart:
+    name:
+      first: Virginia
+      last: Trueheart
+      code: virginia-trueheart
+    title: Research Engineering/ Scientist Associate II
+    group: HPC Applications Group
+    phone: 512-475-9411
+    email: vtrueheart@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/VirginiaTrueheart2.png
+    biography: |-
+      Virginia Trueheart joined TACC in 2015. Prior to that, she worked at BazaarVoice supporting P&G web platforms and assisting with maintenance of their online presence. At TACC, she works directly with users troubleshooting issues with jobs and helping them improve their use of TACC machines. She also works to develop new training materials for users and helps coordinate responses to users when site wide events occur. Finally, she works directly with HPC researchers to provide internal support around software maintenance and issue tracking.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - User Education
+              - Video Training
+              - Software License Management
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., English Literature
+                school: Colorado College
+              - degree: M.S.I.S., Information Studies
+                school: University of Texas at Austin
