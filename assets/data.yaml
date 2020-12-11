@@ -993,7 +993,7 @@ entries:
                 school: Kellogg Business School at Northwestern University
 
   - junjie-li:
-    should-render: TRUE
+    should-render: FALSE
     name:
       first: Junjie
       last: Li
@@ -1046,3 +1046,18 @@ entries:
                 school: Indiana University Bloomington
               - degree: B.Eng., Applied Chemistry
                 school: East China University of Science and Technology
+
+  - wesley-bomar:
+    should-render: TRUE
+    name:
+      first: Wesley
+      last: Bomar
+      code: wesley-bomar
+    title: Web Designer / Front End Developer
+    group: Communications, Media, and Design
+    phone: 512-475-9411
+    email: wbomar@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/wesley-bomar.jpg
+    biography: |-
+      Wesley joined TACC in October 2019. He is involved in website maintenance and development, and the identification and realization of new opportunities to improve user experience and developer workflow. Prior to joining TACC, he worked ten years in private industry closely with designers and engineers on user-centric website and web application development and architecture.

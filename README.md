@@ -1,15 +1,15 @@
-# TACC Website SC19+ Page
+# TACC Website Staff Directory
 
-This project compiles data into templates to create markup for the body of the TACC SC (Supercomputing) pages:
+This project compiles data into templates to create markup for the content of the staff directory and staff pages:
 
-- [SC19](https://www.tacc.utexas.edu/sc19 "TACC: SC19")
-- [SC20](https://www.tacc.utexas.edu/sc20 "TACC: SC20")
+- [Staff Directory](https://www.tacc.utexas.edu/about/directory "TACC: Staff Directory")
+- [Example Staff Page](https://www.tacc.utexas.edu/sc20 "TACC: Staff Directory: Wesley Bomar")
 
 ## Usage
 
 1. Edit templates and data in:
-    - `20__/templates/`
-    - `20__/data/`
+    - `templates/`
+    - `data/`
 2. Run build script:
     - `npm run build`
 3. Confirm output in:
