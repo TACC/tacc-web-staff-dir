@@ -321,7 +321,7 @@ entries:
               - "M. Schuld, K. Bradler, R. Israel, D. Su, and B. Gupt, “A quantum hardware-induced graph kernel based on Gaussian Boson Sampling” arXiv:1905.12646"
               - "B. Gupt, Arrazola, J. M., Quesada, N., & Bromley, T. R. “Classical benchmarking of Gaussian Boson Sampling on the Titan supercomputer”, 2018 arXiv:1810.00900."
               - "Rebentrost, P., B. Gupt , & Bromley, T. R. “Photonic quantum algorithm for Monte Carlo integration” 2018, arXiv e-prints, arXiv:1809.02579."
-              - "Bjorklund, A., B. Gupt , & Quesada, N. “A faster hafnian formula for complex matrices and its benchmarking on a supercomputer”, arXiv:1805.12498. Journal of Experimental Algorithmics, Vol. 24, 1 (2019)"
+              - "Bjorklund, A., B. Gupt , & Quesada, N. “A faster hafnian formula for complex matrices and its benchmarking on a supercomputer”, arXiv:1805.12498.<br />Journal of Experimental Algorithmics, Vol. 24, 1 (2019)"
               - "Rebentrost, P., B. Gupt , & Bromley, T. R. “Quantum computational finance: Monte Carlo pricing of financial derivatives” 2018, Physical Review A, 98, 22321. arXiv:1805.00109"
       - info-cols:
           - layout:
@@ -943,7 +943,7 @@ entries:
                 school: University of Texas at Austin
 
   - adam-gaither:
-    should-render: TRUE
+    should-render: FALSE
     name:
       first: Adam
       last: Gatiher
@@ -991,3 +991,58 @@ entries:
                 school: Mississippi State University
               - degree: Executive Development Program (EDP)
                 school: Kellogg Business School at Northwestern University
+
+  - junjie-li:
+    should-render: TRUE
+    name:
+      first: Junjie
+      last: Li
+      code: junjie-li
+    title: Research Associate
+    group: HPC Software Tools
+    phone: 512-475-9411
+    email: jli@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/junjie-li.jpg
+    biography: |-
+      Junjie joined TACC in December 2020 as a research associate in High Performance Computing (HPC). He has extensive experience in performance benchmark and tuning, parallel computing and quantum chemistry. Prior to joining TACC, he was an HPC principal system analyst at Indiana University.   
+
+      Junjie earned his PhD in chemical physics from Indiana University Bloomington. He was a contributor to Gaussian quantum chemistry package and developed several novel electronic structure techniques for real-time ab initio molecular dynamics to simulate quantum nuclear effects in chemical and biological reactions.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-research: TRUE
+            research:
+              - Performance benchmark and tuning
+              - Parallel computing
+              - GPU acceleration
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - "Q. Wen, S. L. Risacher, L. Xie, <strong><strong>J. Li</strong></strong>, J. Harezlak, M. R. Farlow, F. W. Unverzagt, S. Gao, L. G. Apostolova, A. J. Saykin, Y. Wu. Tau-Related White-Matter Alterations Along Spatially Selective Pathways.<br />NeuroImage. 2021 226 117560."
+              - "Q. Wen, S. M. Mustafi, <strong><strong>J. Li</strong></strong>, S. L. Risacher, E. Tallman, S. A. Brown, J. D. West, J. Harezlak, M. R. Farlow, F W. Unverzagt, S. Gao, L. G. Apostolova, A. J. Saykin and Y. Wu. White Matter Alterations in Early-stage Alzheimer’s Disease: A Tract-specific Study.<br />Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring. 2019 11 576."
+              - "C. Haycraft, <strong><strong>J. Li</strong></strong> and S. S. Iyengar. Efficient, ’On-the-fly’, Born-Oppenheimer and Car-Parrinello-type dynamics with coupled cluster (CCSD) accuracy through fragment based electronic structure.<br />Journal of Chemical Theory and Computation. 2017 13(5) 1887."
+              - "<strong><strong>J. Li</strong></strong>, A. B. Pacheco, K. Raghavachari and S. S. Iyengar. A Grotthuss-like proton shuttle in the anomalous C2H3+ carbocation: energetic and vibrational properties for isotopologues.<br />Physical Chemistry Chemical Physics. 2016 18(42) 29395."
+              - "<strong><strong>J. Li</strong></strong>, C. Haycraft and S. S. Iyengar. Hybrid extended Lagrangian and Born-Oppenheimer molecular dynamics within an ONIOM based fragmentation energy extrapolation scheme.<br />Journal of Chemical Theory and Computation. 2016 12(6) 2493."
+              - "<strong><strong>J. Li</strong></strong> and S. S. Iyengar. Ab initio molecular dynamics using recursive, spatially separated, overlapping model subsystems mixed within an ONIOM based fragmentation energy extrapolation technique.<br />Journal of Chemical Theory and Computation. 2015 11(9) 3978."
+              - "P. Phatak, J. Venderley, J. Debrota, <strong>J. Li</strong> and S. S. Iyengar. Active site dynamical effects that affect the hydrogen transfer rate- limiting step in the catalysis of linoleic acid by soybean lipoxygenase-1 (SLO-1): primary and secondary isotope effects.<br />Journal of Physical Chemistry – B. 2015 119(30) 9532."
+              - "<strong>J. Li</strong>, X. Li, and S. S. Iyengar. Vibrational properties of hydrogen-bonded systems using the multi-reference generalization to the “on-the-fly” electronic structure within quantum wavepacket ab initio molecular dynamics.<br />Journal of Chemical Theory and Computation. 2014 10(6) 2265."
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-organizations: TRUE
+            organizations:
+              - High Performance Group (HPG) of Standard Performance Evaluation Corporation (SPEC)
+              - Institute of Electrical and Electronics Engineers (IEEE)
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: Ph.D., Chemical Physics
+                school: Indiana University Bloomington
+              - degree: B.Eng., Applied Chemistry
+                school: East China University of Science and Technology
