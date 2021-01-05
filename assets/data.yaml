@@ -1048,7 +1048,7 @@ entries:
                 school: East China University of Science and Technology
 
   - wesley-bomar:
-    should-render: TRUE
+    should-render: FALSE
     name:
       first: Wesley
       last: Bomar
@@ -1061,3 +1061,18 @@ entries:
       image: /documents/1084364/1085221/wesley-bomar.jpg
     biography: |-
       Wesley joined TACC in October 2019. He is involved in website maintenance and development, and the identification and realization of new opportunities to improve user experience and developer workflow. Prior to joining TACC, he worked ten years in private industry closely with designers and engineers on user-centric website and web application development and architecture.
+
+  - remy-scott:
+    should-render: TRUE
+    name:
+      first: Remy
+      last: Scott
+      code: remy-scott
+    title: Engineering Scientist Associate
+    group: High Performance Computing
+    phone: 512-475-9411
+    email: scottre@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/remy-scott.jpg/
+    biography: |-
+      Remy joined TACC in 2012 as a Desktop Support Specialist assisting staff with technical expertise on laptops, desktops, and virtual machines before working on the Microsoft Catapult FPGA cluster as the lead System Administrator from 2015 to 2019. He is now on the Frontline support team for the HPC group, assisting users and researchers with job submissions and educating them on good citizenship and best practices on all of TACC's systems and services.
