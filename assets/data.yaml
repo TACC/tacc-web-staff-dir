@@ -1137,10 +1137,9 @@ entries:
 
   - quan-yuan:
     should-render: TRUE
-    does-prefer-surname-first: TRUE
     name:
-      surname: Quan
-      given: Yuan
+      surname: Yuan
+      given: Quan
       code: quan-yuan
     title: HPC User Support RESA II
     group: HPC
