@@ -1114,7 +1114,7 @@ entries:
     url:
       image: 
     biography: |-
-      Andrew joined TACC in September 2015 to help develop web portal applications in the Web & Mobile Applications Group. He has a bachelor's degree in geography from the University of Texas at Austin, and is completing a master's degree in computer science at Texas State University, San Marcos. Before joining TACC, Andrew worked for the City of Austin, TX, where he developed geospatial web applications.
+      Andrew joined TACC in September 2015 to help develop web portal applications in the Web & Mobile Applications Group. He has a bachelor's degree in geography from the University of Texas at Austin, and a master's degree in computer science from Texas State University, San Marcos. Before joining TACC, Andrew worked for the City of Austin, TX, where he developed geospatial web applications.
     info-rows:
       - info-cols:
           - layout:
@@ -1130,7 +1130,7 @@ entries:
               colspan: 12
             show-education: TRUE
             education:
+              - degree: M.S., Computer Science
+                school: Texas State University, San Marcos, TX
               - degree: B.A., Geography
                 school: University of Texas at Austin
-              - degree: Post-Baccalaureate Certificate, Computer Science
-                school: Texas State University, San Marcos, TX
