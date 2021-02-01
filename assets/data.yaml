@@ -1134,3 +1134,44 @@ entries:
                 school: Texas State University, San Marcos, TX
               - degree: B.A., Geography
                 school: University of Texas at Austin
+
+  - quan-yuan:
+    should-render: TRUE
+    does-prefer-surname-first: TRUE
+    name:
+      surname: Quan
+      given: Yuan
+      code: quan-yuan
+    title: HPC User Support RESA II
+    group: HPC
+    phone: 512-475-9411
+    email: qyuan@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/quan-yuan.jpeg
+    biography: |-
+      Quan joined the HPC frontline group at TACC in 2021. She is responsible for responding to users’ tickets, troubleshooting issues and educating users on TACC's machines. Prior to joining TACC, Quan conducted computational research on MD simulation of protein folding at Stony Brook University and biochemical research on the mechanism of E. coli DNA polymerase holoenzyme at University of Colorado at Boulder.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              - Parallel Computing
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., Chemistry
+                school: Peking University
+              - degree: Ph.D., Biochemistry
+                school: University of Colorado Boulder
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - "Q Yuan, P Dohrmann, M Sutton and C McHenry “DNA Polymerase III, but not Polymerase IV, must be bound to τ-containing DnaX complex to enable exchange into replication forks”, Journal of Biological Chemistry (2016): 291:11727-35"
+              - "Q Yuan, C McHenry, “Cycling of the E. coli lagging strand polymerase is triggered exclusively by the availability of a new primer at the replication fork”, Nucleic Acids Research (2014), 42, 1747-1756"
+              - "E Antony, E Weiland, Q Yuan, C Manhart, B Nguyen, A Kozlov, C McHenry and T Lohman, “Multiple C-terminal tails within a single E. coli SSB homotetramer coordinate DNA replication and repair”, Journal of Molecular Biology (2013), 425, 4802- 4819"
+              - "Q Yuan and C McHenry, “Strand displacement by DNA Polymerase III occurs through a τ-ψ-χ Link to single-stranded DNA-binding protein coating the lagging strand template”, The Journal of Biological Chemistry (2009), 284, 31672-31679"
+              - "Q Yuan, Z Li, B Wang, “Partial molar volumes of l-alanine, dl-serine, dl-threonine, l- histidine, glycine, and glycylglycine in water, NaCl, and DMSO aqueous solutions at T = 298.15 K”, The Journal of Chemical Thermodynamics (2006), 38, 20-33"
