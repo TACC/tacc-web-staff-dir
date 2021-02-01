@@ -2,8 +2,8 @@ entries:
   - sample-dude:
     should-render: FALSE
     name:
-      first: Sample
-      last: Dude
+      given: Sample
+      surname: Dude
       code: sample-dude
     title: Some Kind of Scientist
     group: Networking, Security and Operations
@@ -75,8 +75,8 @@ entries:
 
   - tony-violante:
     name:
-      first: Tony
-      last: Violante
+      given: Tony
+      surname: Violante
       code: tony-violante
     title: Engineering Scientist
     group: Networking, Security, Operations
@@ -111,8 +111,8 @@ entries:
 
   - nashid-afreen:
     name:
-      first: Nashid
-      last: Afreen
+      given: Nashid
+      surname: Afreen
       code: nashid-afreen
     title: Engineering Scientist Associate
     group: User Services
@@ -140,8 +140,8 @@ entries:
 
   - aubrey-white:
     name:
-      first: Aubrey
-      last: White
+      given: Aubrey
+      surname: White
       code: aubrey-white
     title: Project Manager
     group: Networking, Security, and Operations
@@ -191,8 +191,8 @@ entries:
 
   - amit-ruhela:
     name:
-      first: Amit
-      last: Ruhela
+      given: Amit
+      surname: Ruhela
       code: amit-ruhela
     title: Research Associate
     group: High Performance Computing
@@ -263,8 +263,8 @@ entries:
 
   - pat-scherer:
     name:
-      first: Pat
-      last: Scherer
+      given: Pat
+      surname: Scherer
       code: pat-scherer
     title: Data Systems Engineer
     group: Data Management & Collections
@@ -293,8 +293,8 @@ entries:
 
   - brajesh-gupt:
     name:
-      first: Brajesh
-      last: Gupt
+      given: Brajesh
+      surname: Gupt
       code: brajesh-gupt
     title: Research Associate
     group: Future Technologies
@@ -335,8 +335,8 @@ entries:
 
   - owais-jamil:
     name:
-      first: Owais
-      last: Jamil
+      given: Owais
+      surname: Jamil
       code: owais-jamil
     title: Engineering Scientist Associate
     group: Networking, Security, and Operations
@@ -347,8 +347,8 @@ entries:
 
   - janie-bushn:
     name:
-      first: Janie
-      last: Bushn
+      given: Janie
+      surname: Bushn
       code: janie-bushn
     title: Administrative Manager
     group: Center Operations & Administration / Special Projects
@@ -368,8 +368,8 @@ entries:
 
   - stephen-harrell:
     name:
-      first: Stephen
-      last: Harrell
+      given: Stephen
+      surname: Harrell
       code: stephen-harrell
     title: HPC Engineering Scientist
     group: High Performance Computing
@@ -424,8 +424,8 @@ entries:
 
   - loren-cain:
     name:
-      first: Loren
-      last: Cain
+      given: Loren
+      surname: Cain
       code: loren-cain
     title: Project Coordinator
     group: Center Operations & Administration
@@ -438,8 +438,8 @@ entries:
 
   - andrew-hardy:
     name:
-      first: Andrew
-      last: Hardy
+      given: Andrew
+      surname: Hardy
       code: andrew-hardy
     title: Systems Administrator I
     group: Networking, Security & Operations
@@ -461,8 +461,8 @@ entries:
 
   - ari-kahn:
     name:
-      first: Ari
-      last: Kahn
+      given: Ari
+      surname: Kahn
       code: ari-kahn
     title: Human Translational Genomics Coordinator
     group: Life Sciences Computing Group
@@ -473,8 +473,8 @@ entries:
 
   - miriam-jacobson:
     name:
-      first: Miriam
-      last: Jacobson
+      given: Miriam
+      surname: Jacobson
       code: miriam-jacobson
     title: Research Associate
     group: Expanding Pathways in Computing (EPIC)
@@ -526,8 +526,8 @@ entries:
 
   - nikki-hendricks:
     name:
-      first: Nikki
-      last: Hendricks
+      given: Nikki
+      surname: Hendricks
       code: nikki-hendricks
     title: CyberSecurity Education Specialist
     group: Expanding Pathways in Computing (EPIC)
@@ -583,8 +583,8 @@ entries:
 
   - christian-garcia:
     name:
-      first: Christian
-      last: Garcia
+      given: Christian
+      surname: Garcia
       code: christian-garcia
     title: Engineering Scientist Associate
     group: Cloud & Interactive Computing (CIC)
@@ -610,8 +610,8 @@ entries:
 
   - kirby-rankin:
     name:
-      first: Kirby
-      last: Rankin
+      given: Kirby
+      surname: Rankin
       code: kirby-rankin
     title:  A&P Hourly
     group: Expanding Pathways in Computing (EPIC)
@@ -640,8 +640,8 @@ entries:
 
   - alex-ferrier:
     name:
-      first: Alex
-      last: Ferrier
+      given: Alex
+      surname: Ferrier
       code: alex-ferrier
     title: Help Desk Specialist
     group: Networking, Security, Operations
@@ -663,8 +663,8 @@ entries:
 
   - stephanie-zeller:
     name:
-      first: Stephanie
-      last: Zeller
+      given: Stephanie
+      surname: Zeller
       code: stephanie-zeller
     title: Research Engineering/Scientist Professional (part-time)
     group: Scalable Visualization Technologies, Visualization Interfaces & Applications
@@ -705,8 +705,8 @@ entries:
 
   - joy-schwartz:
     name:
-      first: Joy
-      last: Schwartz
+      given: Joy
+      surname: Schwartz
       code: joy-schwartz
     title: A&P Hourly
     group: Expanding Pathways in Computing (EPIC)
@@ -759,8 +759,8 @@ entries:
 
   - smruti-padhy:
     name:
-      first: Smruti
-      last: Padhy
+      given: Smruti
+      surname: Padhy
       code: smruti-padhy
     title: Engineering Scientist
     group: Cloud & Interactive Computing (CIC)
@@ -823,8 +823,8 @@ entries:
 
   - garner-vincent:
     name:
-      first: Garner
-      last: Vincent
+      given: Garner
+      surname: Vincent
       code: garner-vincent
     title: Engineering Scientist
     group: Expanding Pathways in Computing (EPIC)
@@ -857,8 +857,8 @@ entries:
   - allen-antoine:
     should-render: FALSE
     name:
-      first: Allen J.
-      last: Antoine
+      given: Allen J.
+      surname: Antoine
       suffix: Jr.
       code: allen-antoine
     title: A&P Hourly (part-time)
@@ -913,8 +913,8 @@ entries:
   - virginia-trueheart:
     should-render: FALSE
     name:
-      first: Virginia
-      last: Trueheart
+      given: Virginia
+      surname: Trueheart
       code: virginia-trueheart
     title: Manager
     group: HPC Frontline Group
@@ -945,8 +945,8 @@ entries:
   - adam-gaither:
     should-render: FALSE
     name:
-      first: Adam
-      last: Gatiher
+      given: Adam
+      surname: Gatiher
       code: adam-gaither
     title: Senior Software Architect – TAS
     group: Strategic Initiatives
@@ -994,9 +994,10 @@ entries:
 
   - junjie-li:
     should-render: FALSE
+    does-prefer-surname-first: FALSE
     name:
-      first: Junjie
-      last: Li
+      given: Junjie
+      surname: Li
       code: junjie-li
     title: Research Associate
     group: HPC Software Tools
@@ -1050,8 +1051,8 @@ entries:
   - wesley-bomar:
     should-render: FALSE
     name:
-      first: Wesley
-      last: Bomar
+      given: Wesley
+      surname: Bomar
       code: wesley-bomar
     title: Web Designer / Front End Developer
     group: Communications, Media, and Design
@@ -1065,8 +1066,8 @@ entries:
   - remy-scott:
     should-render: FALSE
     name:
-      first: Remy
-      last: Scott
+      given: Remy
+      surname: Scott
       code: remy-scott
     title: Engineering Scientist Associate
     group: High Performance Computing
@@ -1079,8 +1080,8 @@ entries:
 
   - imran-moolla:
     name:
-      first: Imran
-      last: Moolla
+      given: Imran
+      surname: Moolla
       code: imran-moolla
     title: Storage Administrator
     group: Large Scale Systems
@@ -1102,10 +1103,9 @@ entries:
                 school: Wayne State University at Detroit, MI
 
   - andrew-magill:
-    should-render: TRUE
     name:
-      first: Andrew
-      last: Magill
+      given: Andrew
+      surname: Magill
       code: andrew-magill
     title: RESA III Python And Django Developer
     group: Web & Mobile Applications

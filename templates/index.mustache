@@ -1,6 +1,6 @@
 {{#entries}}
 {{#should-render}}
-<!-- STAFF: {{name.first}} {{name.last}} ({{name.code}}) -->
+<!-- STAFF: {{> name}} ({{name.code}}) -->
 
 <!-- STAFF (Directory Row) -->
 <!-- For "Staff Directory" (Full Time) table at `/about/directory` -->
@@ -10,14 +10,14 @@
 
 
 <!-- STAFF (Image Content) -->
-<!-- For "Staff Image" Web Content at `/about/directory/firstname-lastname` -->
+<!-- For "Staff Image" Web Content at `/about/directory/{{name.code}}` -->
 
 {{> img}}
 
 
 
 <!-- STAFF (Bio Content) -->
-<!-- For "Staff Bio" Web Content at `/about/directory/firstname-lastname` -->
+<!-- For "Staff Bio" Web Content at `/about/directory/{{name.code}}` -->
 
 {{> bio}}
 

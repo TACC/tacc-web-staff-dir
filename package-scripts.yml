@@ -19,6 +19,8 @@ scripts:
     -p ./templates/partials/row.mustache
     -p ./templates/partials/img.mustache
     -p ./templates/partials/bio.mustache
+    -p ./templates/partials/name.mustache
+    -p ./templates/partials/name--alpha-list.mustache
     ./bin/markdown-to-html.js ./templates/index.mustache >
     ./dist/output.html
 
