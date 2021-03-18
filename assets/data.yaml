@@ -1136,7 +1136,7 @@ entries:
                 school: University of Texas at Austin
 
   - quan-yuan:
-    should-render: TRUE
+    should-render: FALSE
     name:
       surname: Yuan
       given: Quan
@@ -1179,3 +1179,39 @@ entries:
                 <strong>Q Yuan</strong> and C McHenry, “Strand displacement by DNA Polymerase III occurs through a τ-ψ-χ Link to single-stranded DNA-binding protein coating the lagging strand template”, The Journal of Biological Chemistry (2009), 284, 31672-31679
               - |-
                 <strong>Q Yuan</strong>, Z Li, B Wang, “Partial molar volumes of l-alanine, dl-serine, dl-threonine, l- histidine, glycine, and glycylglycine in water, NaCl, and DMSO aqueous solutions at T = 298.15 K”, The Journal of Chemical Thermodynamics (2006), 38, 20-33"
+
+  - pinakini-samant:
+    should-render: TRUE
+    name:
+      given: Pinakini
+      surname: Samant
+      code: pinakini-samant
+    title: Research Engineering/Scientist Associate IV
+    group: Scalable Computational Intelligence
+    phone: 512-475-9411
+    email: psamant@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/pinakini-samant.jpg
+    biography: |-
+      Pinakini Samant is a Data Science and Machine learning enthusiast with a proclivity to solve relevant problems. Before joining TACC in 2021, she worked as a Junior Data Scientist at the Systems and Engineering Research Center.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-research: TRUE
+            research:
+              - Data Science, Machine Learning, Natural Language Processing, Human Computer Interaction, Image Processing
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                Toward Improving End-User Experience, Perception and Adoption of mHealth Apps for Mental Health: An Exploratory Study -  ACM Conference on Computer Supported Cooperative Work (CSCW) 2021 (October 2020 submissions)
+              - |-
+                P. Bhope and P. Samant, "Use of Image Processing in Lane Departure Warning System," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, 2018, pp. 1-4, doi: 10.1109/I2CT.2018.8529819.
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: M.S., Information Systems
+                school: Stevens Institute of Technology
