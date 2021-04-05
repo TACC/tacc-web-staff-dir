@@ -190,6 +190,7 @@ entries:
               - A Macro Look at Modeling and Simulation as a Combat Multiplier, U.S. Army, Ft. Hood
 
   - amit-ruhela:
+    should-render: TRUE
     name:
       given: Amit
       surname: Ruhela
@@ -223,11 +224,15 @@ entries:
               - Multiscale High Performance Computing
               - Performance measurement, analysis, and benchmarking
               - HPC Software tools
+              - <a href="https://bighpc.wavecom.pt" targer="_blank">BigHPC</a>
           - layout:
               colspan: 12
             show-organizations: TRUE
             organizations:
-              - Member, ACM
+              - "Member, ACM (2009–2020)"
+              - "Secretary: Intel eXtreme Performance User Group (IXPUG), 2021 and 2022"
+              - "Co-Chair: Intel eXtreme Performance User Group (IXPUG), 2020"
+              - "Associate Chair: Bird of Feathers, ACM Practice and Experience in Advanced Research Computing (PEARC) 2021"
       - info-cols:
           - layout:
               colspan: 12
@@ -241,14 +246,32 @@ entries:
                     - 'Amit Ruhela, Amitabha Bagchi, Anirban Mahanti and Aaditeshwar Seth. "The rich and middle classes on Twitter: Are popular users indeed different from regular users", Special issue on Online Social Networks in Elsevier COMCOM Journal, ISSN 0140-3664, Jul 2015, Impact Factor: 2.099, h5-index :49, h5-median : 71'
                 - custom_heading: Conferences
                   items:
-                    - 'Amit Ruhela, Shulei Xu, Karthik V. Manian, Hari Subramoni, and Dhabaleswar K. Panda. "Analyzing and Understanding the Impact of Interconnect Performance on HPC, Big Data and Deep Learning Applications: A Case Study with InfiniBand EDR and HDR", In Proceedings of the IPDPS''20 - SNACS workshop. New Orleans, Louisiana, USA'
-                    - 'Amit Ruhela, Bharath Ramesh, Sourav Chakraborty, Hari Subramoni, Jahanzeb Maqbool Hashmi, and Dhabaleswar K. (DK) Panda. "Leveraging Network-level parallelism with Multiple Process-Endpoints for MPI Broadcast", In Proceedings of the Third Annual Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware (IPDRM ''19). Denver, Colorado, USA'
-                    - 'Karthik Vadambacheri Manian, Ammar Ahmad Awan, Amit Ruhela, Ching-Hsiang Chu, Hari Subramoni, and Dhabaleswar K. Panda. "Characterizing CUDA Unified Memory (UM)- Aware MPI Designs on Modern GPU Architectures", In Proceedings of the 12th Workshop on General Purpose Processing Using GPUs (GPGPU ''19). ACM, New York, NY, USA'
-                    - 'Amit Ruhela, Hari Subramoni, Sourav Chakraborty, Mohammadreza Bayatpour, Pouya Kousha, and Dhabaleswar K. Panda. 2018. "Efficient Asynchronous Communication Progress for MPI without Dedicated Resources", In Proceedings of The EuroMPI 2018 (EuroMPI 2018). ACM, New York, NY, USA, 11 pages. Rank : B1(QUALIS)'
-                    - 'Amit Ruhela, Sipat Triukose, Sebastien Ardon, Amitabha Bagchi, Aaditeshwar Seth and Anirban Mahanti. "The Scope for Online Social Network Aided Caching in Web CDNs", 9th ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2013), Oct. 2013, Rank: B1(QUALIS)'
-                    - 'Sebastien Ardon, Amitabha Bagchi, Anirban Mahanti, Amit Ruhela, Aaditeshwar Seth, Rudra Mohan Tripathy and Sipat Triukose, "Spatio-Temporal and Events Based Analysis of Topic Popularity in Twitter", 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013), Oct. 2013, Rank: A(CORE13,ERA), A1(QUALIS)'
-                    - 'Amit Ruhela. "Scalable content distribution for social networking websites", 4th International Conference on Communication Systems and Networks (COMSNETS). 3-7 Jan. 2012, [doi](): 0.1109/COM- SNETS.2012.6151360 Best presentation in PhD forum Acceptance Rate: 27.9%'
-                    - 'Amit Ruhela, Rudra Mohan Tripathy, Sipat Triukose, Sebastien Ardon, Amitabha Bagchi, and Aaditeshwar Seth. "Towards the use of online social networks for efficient Internet content distribution", 5th International Conference on Advanced Networks and Telecommunication Systems (ANTS), Dec. 2011, Acceptance Rate: 35%'
+                    - >
+                      Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, Gregory J. Zynda, John Fonner, Matt Vaughn, Tommy Minyard, John Cazes, Characterizing Containerized HPC Application Performance at Petascale on CPU and GPU Architectures. In ISC High Performance 2021. (ISC 2021), Acceptance Rate : 33%
+                    - >
+                      Richard Todd Evans, Matthew Cawood, Stephen Lien Harrell, Lei Huang, Si Liu, Chun-Yaung Lu, Amit Ruhela, Yinzhi Wang, Zhao Zhang, Optimizing GPU-enhanced HPC System and Cloud Procurements for Scientific Workloads. In ISC High Performance 2021. (ISC 2021), Acceptance Rate : 33%
+                    - >
+                      Amit Ruhela, Matt Vaughn, Stephen Lien Harrell, Gregory J. Zynda, John Fonner, Richard ToddEvans, Tommy Minyard, "Containerization on Petascale HPC Clusters", In State of the Practice Reports of the International Conference for High-Performance Computing, Networking, Storage and Analysis (SC'20), 2020 Rank: A1 Qualis, Google Scholar H5-index: 43
+                    - >
+                      S. Mahdieh Ghazimirsaeed, Qinghua Zhou, Amit Ruhela, Mohammadreza Bayatpour, Hari Subramoni, and Dhabaleswar K. (DK) Panda, "A Hierarchical and Load-Aware Design for Large Message Neighborhood Collectives", In Proceedings of the International Conference for High PerformanceComputing, Networking, Storage and Analysis (SC), 2020 Rank: A1 Qualis, Google Scholar H5-index: 4
+                    - >
+                      Wilson Perez, Amit Ruhela, Punit Tulpule, "Benchmarking Computational Time of DynamicProgramming for Autonomous Vehicle Powertrain Control", SAE Technical Paper 2020-01-0968,2020
+                    - >
+                      Amit Ruhela, Shulei Xu, Karthik V. Manian, Hari Subramoni, and Dhabaleswar K. Panda. "Analyzing and Understanding the Impact of Interconnect Performance on HPC, Big Data and Deep Learning Applications: A Case Study with InfiniBand EDR and HDR", In Proceedings of the IPDPS'20 - SNACS workshop. New Orleans, Louisiana, USA
+                    - >
+                      Amit Ruhela, Bharath Ramesh, Sourav Chakraborty, Hari Subramoni, Jahanzeb Maqbool Hashmi, and Dhabaleswar K. (DK) Panda. "Leveraging Network-level parallelism with Multiple Process-Endpoints for MPI Broadcast", In Proceedings of the Third Annual Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware (IPDRM '19). Denver, Colorado, USA
+                    - >
+                      Karthik Vadambacheri Manian, Ammar Ahmad Awan, Amit Ruhela, Ching-Hsiang Chu, Hari Subramoni, and Dhabaleswar K. Panda. "Characterizing CUDA Unified Memory (UM)- Aware MPI Designs on Modern GPU Architectures", In Proceedings of the 12th Workshop on General Purpose Processing Using GPUs (GPGPU '19). ACM, New York, NY, USA
+                    - >
+                      Amit Ruhela, Hari Subramoni, Sourav Chakraborty, Mohammadreza Bayatpour, Pouya Kousha, and Dhabaleswar K. Panda. 2018. "Efficient Asynchronous Communication Progress for MPI without Dedicated Resources", In Proceedings of The EuroMPI 2018 (EuroMPI 2018). ACM, New York, NY, USA, 11 pages. Rank : B1(QUALIS)
+                    - >
+                      Amit Ruhela, Sipat Triukose, Sebastien Ardon, Amitabha Bagchi, Aaditeshwar Seth and Anirban Mahanti. "The Scope for Online Social Network Aided Caching in Web CDNs", 9th ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2013), Oct. 2013, Rank: B1(QUALIS)
+                    - >
+                      Sebastien Ardon, Amitabha Bagchi, Anirban Mahanti, Amit Ruhela, Aaditeshwar Seth, Rudra Mohan Tripathy and Sipat Triukose, "Spatio-Temporal and Events Based Analysis of Topic Popularity in Twitter", 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013), Oct. 2013, Rank: A(CORE13,ERA), A1(QUALIS)
+                    - >
+                      Amit Ruhela. "Scalable content distribution for social networking websites", 4th International Conference on Communication Systems and Networks (COMSNETS). 3-7 Jan. 2012, [doi](): 0.1109/COM- SNETS.2012.6151360 Best presentation in PhD forum Acceptance Rate: 27.9%
+                    - >
+                      Amit Ruhela, Rudra Mohan Tripathy, Sipat Triukose, Sebastien Ardon, Amitabha Bagchi, and Aaditeshwar Seth. "Towards the use of online social networks for efficient Internet content distribution", 5th International Conference on Advanced Networks and Telecommunication Systems (ANTS), Dec. 2011, Acceptance Rate: 35%
       - info-cols:
           - layout:
               colspan: 6
@@ -1181,7 +1204,7 @@ entries:
                 <strong>Q Yuan</strong>, Z Li, B Wang, “Partial molar volumes of l-alanine, dl-serine, dl-threonine, l- histidine, glycine, and glycylglycine in water, NaCl, and DMSO aqueous solutions at T = 298.15 K”, The Journal of Chemical Thermodynamics (2006), 38, 20-33"
 
   - pinakini-samant:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Pinakini
       surname: Samant
