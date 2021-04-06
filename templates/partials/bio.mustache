@@ -137,5 +137,18 @@
         {{/info-cols}}
     </div>
     {{/info-rows}}
+    {{#url.cv}}
+    <!-- Full C.V. -->
+
+    <hr class="blueline" />
+
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Curriculum Vitae</h2>
+            <p>
+            <a alt="{{> name}} C.V." href="{{{url.cv}}}" target="_blank" class="btn btn-info">Download Complete CV</a></p>
+        </div>
+    </div>
+    {{/url.cv}}
 
 </div>

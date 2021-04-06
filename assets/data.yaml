@@ -201,6 +201,7 @@ entries:
     email: aruhela@tacc.utexas.edu
     url:
       image: /documents/1084364/1085221/amit-ruhela.jpg
+      cv: 
     biography: |-
       Dr. Ruhela joined the HPC group at TACC in January 2020.  Before TACC, he was working in the Network-Based Computing Laboratory at The Ohio State University. He has more than 17 years of  R&D experience in HPC, Social Computing, and Telecommunication.  He is currently working on novel designs and algorithms in parallel communication to deliver the best performance and scalability for scientific and engineering applications. He has also conducted large scalability studies and performance evaluations of HPC applications on leading supercomputers.
 
