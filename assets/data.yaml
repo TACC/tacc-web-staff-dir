@@ -190,7 +190,7 @@ entries:
               - A Macro Look at Modeling and Simulation as a Combat Multiplier, U.S. Army, Ft. Hood
 
   - amit-ruhela:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Amit
       surname: Ruhela
@@ -286,6 +286,7 @@ entries:
                 school: NIT Kurukshetra
 
   - pat-scherer:
+    should-render: TRUE
     name:
       given: Pat
       surname: Scherer
@@ -301,13 +302,17 @@ entries:
     info-rows:
       - info-cols:
           - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              - TACC Virtual Biospecimen Repository, Acute to Chronic Pain (A2CPS)
+              - Construction Industry Institute
+          - layout:
               colspan: 6
             show-education: TRUE
             education:
               - degree: Post-Graduate Certificate, Computer Science
                 school: University of Texas at Austin
-              - degree: IBM University Level Computer Science Program
-                school: " "
               - degree: MBA, Industrial Management
                 school: University of North Texas
               - degree: BA, Microbiology (Honors Program)
