@@ -286,7 +286,7 @@ entries:
                 school: NIT Kurukshetra
 
   - pat-scherer:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Pat
       surname: Scherer
@@ -1244,3 +1244,28 @@ entries:
             education:
               - degree: M.S., Information Systems
                 school: Stevens Institute of Technology
+
+  - geoffrey-reid:
+    should-render: TRUE
+    name:
+      given: Geoffrey
+      surname: Reid
+      code: geoffrey-reid
+    title: Senior Outreach Program Coordinator
+    group: Education & Outreach
+    phone: 512-475-9411
+    email: greid@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/geoffrey-reid.jpg
+    biography: |-
+      Geoffrey joined TACC in May 2021 as a Senior Outreach Program Coordinator for the support and development of educational programs and community engagement. Before joining TACC, Geoffrey’s work in education ranges from building K-12 pre-college and access programs, leading student housing facilities, university relations and recruitment initiatives, and working as a family and community coordinator at a high school.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.A., Sociology
+                school: Morehouse College
+              - degree: M.A., Student Personnel Administration
+                school: St. Louis University
