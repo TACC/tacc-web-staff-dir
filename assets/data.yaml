@@ -1246,7 +1246,7 @@ entries:
                 school: Stevens Institute of Technology
 
   - geoffrey-reid:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Geoffrey
       surname: Reid
@@ -1269,3 +1269,32 @@ entries:
                 school: Morehouse College
               - degree: M.A., Student Personnel Administration
                 school: St. Louis University
+
+  - will-ruzicka:
+    should-render: TRUE
+    name:
+      given: Will
+      surname: Ruzicka
+      code: will-ruzicka
+    title: Junior Security Analyst
+    group: Networking, Security & Operations
+    phone: 512-475-9411
+    email: wruzicka@tacc.utexas.edu
+    url:
+      image: 
+    biography: |-
+      Will joined the TACC team in May 2021 as a Junior Security Analyst. Will has worked as a Cyber Security Analyst for 3 years with The University of Oklahoma while in college. After graduating with a bachelor’s in Computer Engineering and minor in Computer Science, he is now here at TACC.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - Implementing Cyber Security Servers and Systems
+              - Monitoring network traffic and resolving incidents.
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., Computer Engineering
+                school: University of Oklahoma
