@@ -286,7 +286,7 @@ entries:
                 school: NIT Kurukshetra
 
   - pat-scherer:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Pat
       surname: Scherer
@@ -1244,3 +1244,83 @@ entries:
             education:
               - degree: M.S., Information Systems
                 school: Stevens Institute of Technology
+
+  - lauren-gant:
+    should-render: FALSE
+    name:
+      given: Lauren
+      surname: Gant
+      code: lauren-gant
+    title: Education & Outreach Specialist
+    group: Education & Outreach
+    phone: 512-475-9411
+    email: lgant@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/lauren-gant.jpg
+    biography: |-
+      Lauren Gant joined TACC in 2021 as part of the Education & Outreach team. Bringing a background in teaching, marketing, corporate change management, and community outreach, Lauren will be working to create an inspiring Visitors Center experience.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              - The Visitors Center experience
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.A., English with Tier II Honors
+                school: University of Texas at San Antonio
+
+  - shannon-thorne:
+    should-render: FALSE
+    name:
+      given: Shannon
+      surname: Thorne
+      code: shannon-thorne
+    title: Education & Outreach Specialist
+    group: Education & Outreach
+    phone: 512-475-9411
+    email: sthorne@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/shannon-thorne.jpg
+    biography: |-
+      Shannon joined the TACC team in June 2021 as an Education Outreach Specialist working on the strategies for the visitor’s center. She will serve as a consultant in this capacity as she is currently a Program Director at a literacy non-profit, running book distribution programs in elementary schools and clinics. 
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              - The Visitors Center experience
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.Ed.
+                school: Cape Peninsula University of Technology
+
+  - gilbert-curbelo-iii:
+    should-render: TRUE
+    name:
+      given: Gilbert
+      surname: Curbelo
+      suffix: III
+      code: gilbert-curbelo-iii
+    title: Education & Outreach Specialist
+    group: Education & Outreach
+    phone: 512-475-9411
+    email: gcurbelo@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/gilbert-curbelo-iii.jpg
+    biography: |-
+      Gilbert first joined the TACC team for a short period of time during a summer internship back in 2019. Since then, Gilbert has worked in backend development for Food-Origins, SSCS, and Focal-Point. He has ensured integrity of 3rd party benchmarking results and developed Python program to research usability and scalability of SSH as the backbone of RESTful APIs.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.S., Computer Science
+                school: California State University of Monterey Bay
