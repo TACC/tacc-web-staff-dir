@@ -1299,7 +1299,7 @@ entries:
                 school: University of Texas at San Antonio
 
   - shannon-thorne:
-    should-render: FALSE
+    should-render: TRUE
     name:
       given: Shannon
       surname: Thorne
@@ -1316,18 +1316,13 @@ entries:
       - info-cols:
           - layout:
               colspan: 12
-            show-projects: TRUE
-            projects:
-              - The Visitors Center experience
-          - layout:
-              colspan: 12
             show-education: TRUE
             education:
               - degree: B.Ed.
                 school: Cape Peninsula University of Technology
 
   - gilbert-curbelo-iii:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Gilbert
       surname: Curbelo
@@ -1351,7 +1346,7 @@ entries:
                 school: California State University of Monterey Bay
 
   - will-ruzicka:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Will
       surname: Ruzicka
