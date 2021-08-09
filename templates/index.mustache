@@ -2,22 +2,26 @@
 {{#should-render}}
 <!-- STAFF: {{> name}} ({{name.code}}) -->
 
-<!-- STAFF (Directory Row) -->
-<!-- For "Staff Directory" (Full Time) table at `/about/directory` -->
+<!-- Title: N/A -->
+<!-- Purpose: row in "Staff Directory" (Full Time) table on page `/about/directory` -->
 
 {{> row}}
 
 
 
-<!-- STAFF (Image Content) -->
-<!-- For "Staff Image" Web Content at `/about/directory/{{name.code}}` -->
+<!-- Title:
+{{> name}} Staff Bio Image
+-->
+<!-- Purpose: Web Content shown on page `/about/directory/{{name.code}}` -->
 
 {{> img}}
 
 
 
-<!-- STAFF (Bio Content) -->
-<!-- For "Staff Bio" Web Content at `/about/directory/{{name.code}}` -->
+<!-- Title:
+{{> name}} Staff Bio
+-->
+<!-- Purpose: Web Content shown on page `/about/directory/{{name.code}}` -->
 
 {{> bio}}
 

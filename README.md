@@ -3,7 +3,7 @@
 This project compiles data into templates to create markup for the content of the staff directory and staff pages:
 
 - [Staff Directory](https://www.tacc.utexas.edu/about/directory "TACC: Staff Directory")
-- [Example Staff Page](https://www.tacc.utexas.edu/sc20 "TACC: Staff Directory: Wesley Bomar")
+- [Example Staff Page](https://www.tacc.utexas.edu/about/directory/wesley-bomar "TACC: Staff Directory: Wesley Bomar")
 
 ## Usage
 
