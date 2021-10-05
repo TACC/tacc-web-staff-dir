@@ -1131,39 +1131,6 @@ entries:
               - degree: M.S., Computer Engineering
                 school: Wayne State University at Detroit, MI
 
-  - andrew-magill:
-    name:
-      given: Andrew
-      surname: Magill
-      code: andrew-magill
-    title: RESA III Python And Django Developer
-    group: Web & Mobile Applications
-    phone: 512-475-9411
-    email: amagill@tacc.utexas.edu
-    url:
-      image: 
-    biography: |-
-      Andrew joined TACC in September 2015 to help develop web portal applications in the Web & Mobile Applications Group. He has a bachelor's degree in geography from the University of Texas at Austin, and a master's degree in computer science from Texas State University, San Marcos. Before joining TACC, Andrew worked for the City of Austin, TX, where he developed geospatial web applications.
-    info-rows:
-      - info-cols:
-          - layout:
-              colspan: 12
-            custom_heading: Publications/Conferences
-            show-publications: TRUE
-            publications:
-              - 'Ziheng Sun, Liping Di, Annie Burgess, Jason A. Tullis, and Andrew B. Magill. "Geoweaver: Advanced Cyberinfrastructure for Managing Hybrid Geoscientific AI Workflows." ISPRS International Journal of Geo-Information 9, no. 2 (2020): 119. https://doi.org/10.3390/ijgi9020119'
-              - 'Esteva, Maria, Ramona L. Walls, Andrew B. Magill, Weijia Xu, Ruizhu Huang, James D. Carson and Jawon Song. "Identifier Services: Modeling and Implementing Distributed Data Management in Cyberinfrastructure." Data and Information Management 3 (2019): 26 - 39. https://doi.org/10.2478/dim-2019-0002'
-              - 'Esteva, Maria, Ramona L. Walls, Andrew B. Magill. "A Service to Manage Data Identity Over Time." Open Repositories Conference. Bozeman, Montana, June 4-7 2018 (2018). https://doi.org/10.26153/tsw/655'
-      - info-cols:
-          - layout:
-              colspan: 12
-            show-education: TRUE
-            education:
-              - degree: M.S., Computer Science
-                school: Texas State University, San Marcos, TX
-              - degree: B.A., Geography
-                school: University of Texas at Austin
-
   - quan-yuan:
     should-render: FALSE
     name:
