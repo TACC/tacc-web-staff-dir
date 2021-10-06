@@ -1107,30 +1107,6 @@ entries:
     biography: |-
       Remy joined TACC in 2012 as a Desktop Support Specialist assisting staff with technical expertise on laptops, desktops, and virtual machines before working on the Microsoft Catapult FPGA cluster as the lead System Administrator from 2015 to 2019. He is now on the Frontline support team for the HPC group, assisting users and researchers with job submissions and educating them on good citizenship and best practices on all of TACC's systems and services.
 
-  - imran-moolla:
-    name:
-      given: Imran
-      surname: Moolla
-      code: imran-moolla
-    title: Storage Administrator
-    group: Large Scale Systems
-    phone: 512-475-9411
-    email: imoolla@tacc.utexas.edu
-    url:
-      image: 
-    biography: |-
-      Prior to joining TACC, Iman was at CHEVRON working in High Performance Computing group supporting HPC environment. Prior to that, Imran worked at Schlumberger, Baker Hughes and 3COM as Systems Administrator.
-    info-rows:
-      - info-cols:
-          - layout:
-              colspan: 12
-            show-education: TRUE
-            education:
-              - degree: B.Sc., Electronics Engineering
-                school: N.E.D. University at Karachi, Pakistan
-              - degree: M.S., Computer Engineering
-                school: Wayne State University at Detroit, MI
-
   - quan-yuan:
     should-render: FALSE
     name:
