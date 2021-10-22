@@ -1173,7 +1173,7 @@ entries:
                 school: University of Texas at San Antonio
 
   - shannon-thorne:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Shannon
       surname: Thorne
@@ -1247,3 +1247,28 @@ entries:
             education:
               - degree: B.S., Computer Engineering
                 school: University of Oklahoma
+
+  - damian-hopkins:
+    should-render: TRUE
+    name:
+      given: Damian
+      surname: Hopkins
+      code: damian-hopkins
+    title: Communications Specialist
+    group: Communications, Media, & Design
+    phone: 512-475-9411
+    email: dhopkins@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/damian-hopkins.jpg
+    biography: |-
+      Damian joined the TACC team in September 2021 as a Communication Specialist, coming over from another department at UT. He has about 20 years of experience in the media world as a reporter, copy editor, layout designer and statistician, and looks forward to using his experience to serve at TACC!
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.A., Theater
+                school: Bethel University
+              - degree: A.A., American Sign Language
+                school: Bethel University
