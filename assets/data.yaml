@@ -1249,7 +1249,7 @@ entries:
                 school: University of Oklahoma
 
   - damian-hopkins:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Damian
       surname: Hopkins
@@ -1274,3 +1274,47 @@ entries:
                 school: Bethel University
               - degree: A.A., American Sign Language
                 school: Bethel University
+
+  - juliana-duncan:
+    should-render: TRUE
+    name:
+      given: Juliana
+      surname: Duncan
+      code: juliana-duncan
+    title: Research Associate
+    group: Scalable Computational Intelligence
+    phone: 512-475-9411
+    email: jduncan@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/juliana-duncan.jpg
+    biography: |-
+      Dr. Juliana Duncan is a data and computational scientist as well as an experienced instructor. She earned her Ph.D. in computational chemistry from the University of Texas at Austin in August of 2015 where she developed a novel saddle point finding method, applied machine learning techniques to accelerate molecular dynamics simulations, and used computational methods to simulate chemical processes. As an Assistant Professor of Practice at UT Austin, Juliana led and created all curricula for an undergraduate computational science research program and led an undergraduate research group that conducted research on topics such as using high throughput computing to find materials for catalysis, and global optimization methods.  Prior to joining TACC in October of 2021, Juliana served as the Lead Data Science Instructor, Principal Data Scientist at Galvanize, Inc.  At Galvanize, she led 13 week immersive bootcamps using  Python-based curriculum that taught students techniques in statistics, machine learning, and big data. 
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              -	Data Science
+              -	Computational Chemistry
+              -	Algorithm Development
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: Ph.D., Computational Chemistry
+                school: University of Texas at Austin
+              - degree: B.S., Chemistry and Mathematics
+                school: University of North Carolina Asheville
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                <strong>J. Duncan</strong>, A. Harjunmaa, R. Terrell, R. Drautz, G. Henkelman, and J. Rogal, “Collective Atomic Displacements During Complex Phase Boundary Migration in Solid-Solid Phase Transformations”, <em>Phys. Rev. Lett.</em> <strong>116</strong>, 035701 (2016). <a href="https://doi.org/10.1103/PhysRevLett.116.035701">DOI</a>
+              - |-
+                P. Xiao*, <strong>J. Duncan</strong>*, L. Zhang, and G. Henkelman, “Ridge-Based Bias Potentials to Accelerate Molecular Dynamics”, <em>J. Chem. Phys.</em> <strong>143</strong>, 244104 (2015). <a href="http://theory.cm.utexas.edu/henkelman/pubs/xiao15_244104.pdf">DOI</a>
+              - |-
+                <strong>J. Duncan</strong>, Q. Wu, K. Promislow, and G. Henkelman, “Biased gradient squared descent saddle point finding method,” <em>J. Chem. Phys.</em> <strong>140</strong>, 194102 (2014). <a href="https://doi.org/10.1063/1.4875477">DOI</a>
+              - |-
+                K. Barmak, J. Liu, L. Harlan, P. Xiao, <strong>J. Duncan</strong>, and G. Henkelman, “Transformation of Topologically Close-Packed β-W to Body-Centered Cubic α-W: Comparison of Experiments and Computations,” <em>J. Chem. Phys.</em> <strong>147</strong>, 152709 (2017). <a href="https://doi.org/10.1063/1.4995261">DOI</a>
