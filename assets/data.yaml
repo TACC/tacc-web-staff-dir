@@ -1276,7 +1276,7 @@ entries:
                 school: Bethel University
 
   - juliana-duncan:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Juliana
       surname: Duncan
@@ -1318,3 +1318,231 @@ entries:
                 <strong>J. Duncan</strong>, Q. Wu, K. Promislow, and G. Henkelman, “Biased gradient squared descent saddle point finding method,” <em>J. Chem. Phys.</em> <strong>140</strong>, 194102 (2014). <a href="https://doi.org/10.1063/1.4875477">DOI</a>
               - |-
                 K. Barmak, J. Liu, L. Harlan, P. Xiao, <strong>J. Duncan</strong>, and G. Henkelman, “Transformation of Topologically Close-Packed β-W to Body-Centered Cubic α-W: Comparison of Experiments and Computations,” <em>J. Chem. Phys.</em> <strong>147</strong>, 152709 (2017). <a href="https://doi.org/10.1063/1.4995261">DOI</a>
+
+  - wenyang-zhang:
+    should-render: TRUE
+    name:
+      given: Wenyang
+      surname: Zhang
+      code: wenyang-zhang
+    title: Research Associate
+    group: HPC Applications
+    phone: 512-475-9411
+    email: wzhang@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/wenyang-zhang.png
+    biography: |-
+      Dr. Zhang joined the High-Performance Computing group at the Texas Advanced Computing Center as Research Associate in 2021. He has been collaborating with the DesignSafe community, and many corporations on various projects. His current research interests include high-performance computing applications for natural hazards research such as earthquakes, fault displacement, landslide and liquefaction, scientific machine learning, advanced numerical simulations, and parallel computing.
+
+      During 2019-2021, Dr. Zhang worked as a Postdoctoral Scholar within the B. John Garrick Institute for the Risk Sciences and the Department of Civil and Environmental Engineering at the University of California, Los Angeles. He made remarkable contributions to developing computational and physical modeling and data analytics methodologies in design and performance assessment of life pipelines and infrastructure systems, to further enhance their resilience and sustainability. In addition, he devised an advanced computational flow for regional-scale nonlinear rupture-to-structure simulation by utilizing TACC’s HPC facilities. 
+
+      Dr. Zhang received his Ph.D. in Civil Engineering at the University of California, Los Angeles in 2019. His Ph.D. research focused on earthquake engineering, computational mechanics, and soil-structure interaction.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              -	High-performance Computing Applications
+              -	Natural Hazard Engineering
+              -	Scientific Machine Learning
+              -	Computational Mechanics
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - DesignSafe
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                W. Zhang, E. Taciroglu, A novel Rayleigh-type viscoelastic Perfectly-Matched-Layer for wave propagation analysis: Formulation, implementation and application, Computer Methods in Applied Mechanics and Engineering, 2021:113913
+              - |-
+                W. Zhang, E. Taciroglu, 3D time domain nonlinear analysis of soil-structure systems subjected to obliquely incident SV wave in layered soil media, Earthquake Engineering & Structural Dynamics, 2021: 1-18
+              - |-
+                W. Zhang, K.W. Lim, S.F. Ghahari, P. Aruino, E. Taciroglu, On the implementation and validation of a three-dimensional pressure-dependent bounding surface plasticity model for soil nonlinear wave propagation and soil-structure interaction analyses, submitted to International Journal of Numerical and Analytical Methods in Geomechanics, 2021: 1:29
+              - |-
+                A. Dehghanpoor, D. Thambiratnam, W. Zhang, T. Chan, E. Taciroglu, An extended probabilistic demand model with optimal intensity measures for seismic performance characterization of isolated bridges under coupled horizontal and vertical motion, Bulletin of Earthquake Engineering, 2021: 1-33
+              - |-
+                W. Zhang, D. Restrepo, J. Crempien, B. Erkmen, A. Kurtulus, E. Taciroglu (2021), A computational workflow for rupture-to-structural-response simulation & its application to Istanbul, Earthquake Engineering & Structural Dynamics, 2021; 50: 177- 196.
+              - |-
+                S. Liu, P. Li, W. Zhang, Z. Lu (2020), Experimental study and numerical simulation on dynamic soil-structure interaction under earthquake excitations, Soil Dynamics and Earthquake Engineering, 138, 106333
+              - |-
+                S. Liu, P. Li, Z. Lu, W. Zhang, E. Taciroglu (2020), Effectiveness of particle tuned mass damper devices for pile-supported multi-story frames under seismic excitations, Structural Control and Health Monitoring, 2020; e2627
+              - |-
+                W. Zhang, M. Shokrabadi, Y. Bozorgnia, E. Taciroglu (2020), A methodology for fragility analysis of buried water pipes considering coupled horizontal and vertical ground motions, Computers and Geotechnics, 126, 103709
+              - |-
+                W. Zhang, E. Esmaeilzadeh Seylabi, E. Taciroglu (2019), An ABAQUS toolbox for soil-structure interaction analysis, Computers and Geotechnics, 114, 103143
+              - |-
+                W. Zhang, E. Esmaeilzadeh Seylabi, E. Taciroglu (2019), A quantitative assessment of the NCHRP 611 method for soil-structure interaction analysis of buried circular structures & a proposed improvement, Computers and Geotechnics, 113, 103103
+              - |-
+                L. Li, A. Maccabi, A. Abiri, Y.Y. Juo, W. Zhang, Y.J. Chang, G.N. Saddik, L. Jin, W.S. Grundfest, E.P. Dutson, J.D. Eldredge, R. Candler (2019), Characterization of perfused and sectioned liver tissue in a full indentation cycle using a visco-hyperelastic model, Journal of the Mechanical Behavior of Biomedical Materials, 90, pp.591-603
+              - |-
+                Y. Xie, Q. Zheng, W. Yang, W. Zhang, R. DesRoches, J. Padgett, E. Taciroglu (2019), Probabilistic models of abutment backfills for regional seismic assessment of highway bridges in California, Engineering Structures, 180, 452-467
+              - |-
+                W. Zhang, E. Esmaeilzadeh Seylabi, E. Taciroglu (2017), Validation of a three-dimensional constitutive model for nonlinear site response and soil-structure interaction analyses using centrifuge test data, International Journal of Numerical and Analytical Methods in Geomechanics, Vol. 41, 1828-1847
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-organizations: TRUE
+            organizations:
+              -	Earthquake Engineering Research Institute (EERI), member
+              -	American Society of Civil Engineers, member
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: Ph.D., Civil Engineering
+                school: University of California, Los Angeles
+              - degree: M.S., Civil Engineering
+                school: University of California, Los Angeles
+              - degree: B.S., Civil Engineering
+                school: Tongji University
+
+  - joseph-vantassel:
+    should-render: FALSE
+    name:
+      given: Joseph
+      surname: Vantassel
+      code: joseph-vantassel
+    title: Research Associate
+    group: HPC Applications
+    phone: 512-475-9411
+    email: jvantassel@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/joseph-vantassel.jpg
+    biography: |-
+      Joseph joined TACC in September of 2021 as a Research Associate in the High Performance Computing group. Since joining, Joseph has worked primarily to assist users from the natural hazards community to utilize the tools and resources available at TACC. Prior to TACC, Joseph pursued his PhD from The University of Texas at Austin where his research focused on improving subsurface imaging for engineering applications.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              - Inverse Problems
+              - Numerical Optimization
+              - Uncertainty Quantification
+              - Subsurface Imaging for Engineering Applications
+              - Natural Hazards Engineering
+              - Machine Learning & Deep Learning
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., Civil Engineering
+                school: Rensselaer Polytechnic Institute
+              - degree: M.Sc., Civil Engineering (Geotechnical)
+                school: The University of Texas at Austin
+              - degree: Ph.D., Civil Engineering (Geotechnical)
+                school: The University of Texas at Austin
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                Vantassel, J.P. & Cox, B.R. (2021). A Procedure for Developing Uncertainty–Consistent Vs Profiles from Inversion of Surface Wave Dispersion Data. Soil Dynamics and Earthquake Engineering. 145. <a href="https://doi.org/10.1016/j.soildyn.2021.106622" target="_blank">https://doi.org/10.1016/j.soildyn.2021.106622</a>.
+              - |-
+                Vantassel, J.P. & Cox, B.R. (2021). SWinvert: A Workflow for Performing Rigorous 1-D Surface Wave Inversion. Geophysical Journal International. 224(2), 1141–1156. <a href="https://doi.org/10.1093/gji/ggaa426" target="_blank">https://doi.org/10.1093/gji/ggaa426</a>.
+              - |-
+                Cox, B.R., Cheng, T., Vantassel, J.P., & Manuel, L. (2020). A Statistical Representation and Frequency–Domain Window–Rejection Algorithm for Single–Station HVSR Measurements. Geophysical Journal International, 221(3), 2170–2183–1053. <a href="https://doi.org/10.1093/gji/ggaa119" target="_blank">https://doi.org/10.1093/gji/ggaa119</a>.
+              - |-
+                Cheng, T., Cox, B.R., Vantassel, J.P., & Manuel, L. (2020). A Statistical Approach to Account for Azimuthal Variability in Single–Station HVSR Measurements. Geophysical Journal International, 223(2), 1040–1053. <a href="https://doi.org/10.1093/gji/ggaa342" target="_blank">https://doi.org/10.1093/gji/ggaa342</a>.
+              - |-
+                Vantassel, J.P., Cox, B.R., Wotherspoon, L., & Stolte, A. (2018) Mapping Depth to Bedrock, Shear Stiffness, and Fundamental Site Period at CentrePort, Wellington, Using Surface‐Wave Methods: Implications for Local Seismic Site Amplification, Bulletin of the Seismological Society of America, 108(3B), 1709–1721. <a href="https://doi.org/10.1785/0120170287" target="_blank">https://doi.org/10.1785/0120170287</a>.
+
+  - madeline-haynes:
+    should-render: FALSE
+    name:
+      given: Madeline
+      surname: Haynes
+      code: madeline-haynes
+    title: Postdoctoral Fellow
+    group: Expanding Pathways in Computing (EPIC)
+    phone: 512-475-9411
+    email: mhaynes@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/madeline-haynes.jpg
+    biography: |-
+      Starting in 2014, Madeline Haynes served as a graduate research assistant at TACC on the Education & Outreach and EPIC teams. Prior to graduate school, she taught high school math in the Rio Grande Valley. As a graduate student she also worked at the Charles A. Dana Center, the Education Research Center, Every Texan, and as a legislative intern for Texas House Representative Mary González. After graduating with a doctorate in Education Leadership and Planning, she is now rejoining TACC as a postdoctoral fellow.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 5
+            show-projects: TRUE
+            projects:
+              - CS First and Open Sci Ed
+          - layout:
+              colspan: 7
+            show-organizations: TRUE
+            organizations:
+              -	University Council for Educational Administration
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-publications: TRUE
+            publications:
+              - |-
+                Haynes, M. (2021). <em>Understanding the college persistence experiences of low-income, first-generation, Latinx students.</em> [Doctoral dissertation, University of Texas at Austin]. Texas ScholarWorks.
+              - |-
+                Martin, N. D., Baker, S. N., Haynes, M., & Warner, J. R. (2021, March). Development and Validation of the Motivation to Teach Computer Science Scale. In <em>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education</em> (pp. 1312-1312).
+              - |-
+                Holme, J. J., Castro, A. J., Germain, E., Haynes, M., Sikes, C. L., & Barnes, M. (2020). Community Schools as an Urban School Reform Strategy: Examining Partnerships, Governance, and Sustainability Through the Lens of the Full-Service Community Schools Grant Program. <em>Educational Policy</em>. 
+              - |-
+                Diem, S., Holme, J.J., Edwards, W., Haynes, M., Epstein, E. (2018). Diversity for Whom? Gentrification, Demographic Change, and the Politics of School Integration. <em>Educational Policy</em>. 
+              - |-
+                Haynes, M. (November, 2018). <em>Putting the "Community" in Full-Service Community Schools: Authentically Implementing the Model.</em> Paper presented at the University Council for Educational Administration Annual Meeting, Houston, TX.
+              - |-
+                Diem, S., Holme, J.J., Edwards, W., Haynes, M., Epstein, E. (November, 2018). <em>Critical education policy analysis matters: Challenging traditional perspectives to advance a more democratic society.</em> Paper presented at the University Council for Educational Administration Annual Meeting, Houston, TX. 
+              - |-
+                Diem, S., Holme, J.J., Epstein, E., Edwards, W., Haynes, M. (April, 2018). <em>Gentrification, demographic change, and the politics of school diversity.</em> Paper presented at the American Educational Research Association Annual Meeting, New York, NY.
+              - |-
+                O’Reilly, S., Haynes, M., Edwards, W., Fong, C. (November 2017). <em>Pre-service Teachers' Expectations of Diversity.</em> Paper presented at the University Council for Educational Administration Annual Meeting, Denver, CO.
+              - |-
+                Dunigan, C., Flores, K., Haynes, M., Rangel, C., Velchoff, A., Warren, J. (2018). Design Principles for Corequisite Mathematics: An Exploration of Corequisite Models for Texas Colleges and Universities in Response to State Legislative Change. <em>Texas Success Center</em>. 
+              - |-
+                Groves, G., Tingle, K., Haynes, M. (2018). Dallas Economic Opportunity Assessment. <em>Communities Foundation of Texas</em>. 
+              - |-
+                Tingle, K., Haynes, M., Li, D. (2017). State of Texas Children 2017: Child Well-Being in the Rio Grande Valley. <em>Center for Public Policy Priorities</em>. 
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: Ph.D., Educational Leadership and Policy
+                school: University of Texas at Austin
+              - degree: M.A., Educational Administration
+                school: University of Texas at Austin
+              - degree: B.S., Psychology-Neuroscience; minor in Biology
+                school: The University of Massachusetts-Amherst
+
+  - ian-park:
+    should-render: FALSE
+    name:
+      given: Ian
+      surname: Park (Eun Chan)
+      code: ian-park
+    title: Engineering Scientist Associate
+    group: Web & Mobile Applications
+    phone: 512-475-9411
+    email: ipark@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/ian-park.jpg
+    biography: |-
+      Ian is a software developer with a background in computer science. He has experience with general full-stack web development and handling geodata for visualizations. Ian is currently working as a developer for the HazMapper/Geoapi project, which is part of the Designsafe portal team. He also works for the Core-Portal/Frontera team. Before TACC, Ian was an undergraduate student at Calvin University working for Dr. Haan on creating research workflows on DesignSafe.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - Hazmapper/Geoapi
+              - Core-Portal/Frontera
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.CS., Computer Science
+                school: Calvin University
