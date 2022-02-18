@@ -1074,51 +1074,6 @@ entries:
     biography: |-
       Remy joined TACC in 2012 as a Desktop Support Specialist assisting staff with technical expertise on laptops, desktops, and virtual machines before working on the Microsoft Catapult FPGA cluster as the lead System Administrator from 2015 to 2019. He is now on the Frontline support team for the HPC group, assisting users and researchers with job submissions and educating them on good citizenship and best practices on all of TACC's systems and services.
 
-  - quan-yuan:
-    should-render: FALSE
-    name:
-      surname: Yuan
-      given: Quan
-      code: quan-yuan
-    title: HPC User Support RESA II
-    group: HPC Frontline Group
-    phone: 512-475-9411
-    email: qyuan@tacc.utexas.edu
-    url:
-      image: /documents/1084364/1085221/quan-yuan.jpeg
-    biography: |-
-      Quan joined the HPC frontline group at TACC in 2021. She is responsible for responding to users’ tickets, troubleshooting issues and educating users on TACC's machines. Prior to joining TACC, Quan conducted computational research on MD simulation of protein folding at Stony Brook University and biochemical research on the mechanism of E. coli DNA polymerase holoenzyme at University of Colorado at Boulder.
-    info-rows:
-      - info-cols:
-          - layout:
-              colspan: 6
-            show-research: TRUE
-            research:
-              - Parallel Computing
-          - layout:
-              colspan: 6
-            show-education: TRUE
-            education:
-              - degree: B.S., Chemistry
-                school: Peking University
-              - degree: Ph.D., Biochemistry
-                school: University of Colorado Boulder
-      - info-cols:
-          - layout:
-              colspan: 12
-            show-publications: TRUE
-            publications:
-              - |-
-                <strong>Q Yuan</strong>, P Dohrmann, M Sutton and C McHenry “DNA Polymerase III, but not Polymerase IV, must be bound to τ-containing DnaX complex to enable exchange into replication forks”, Journal of Biological Chemistry (2016): 291:11727-35
-              - |-
-                <strong>Q Yuan</strong>, C McHenry, “Cycling of the E. coli lagging strand polymerase is triggered exclusively by the availability of a new primer at the replication fork”, Nucleic Acids Research (2014), 42, 1747-1756
-              - |-
-                E Antony, E Weiland, <strong>Q Yuan</strong>, C Manhart, B Nguyen, A Kozlov, C McHenry and T Lohman, “Multiple C-terminal tails within a single E. coli SSB homotetramer coordinate DNA replication and repair”, Journal of Molecular Biology (2013), 425, 4802- 4819
-              - |-
-                <strong>Q Yuan</strong> and C McHenry, “Strand displacement by DNA Polymerase III occurs through a τ-ψ-χ Link to single-stranded DNA-binding protein coating the lagging strand template”, The Journal of Biological Chemistry (2009), 284, 31672-31679
-              - |-
-                <strong>Q Yuan</strong>, Z Li, B Wang, “Partial molar volumes of l-alanine, dl-serine, dl-threonine, l- histidine, glycine, and glycylglycine in water, NaCl, and DMSO aqueous solutions at T = 298.15 K”, The Journal of Chemical Thermodynamics (2006), 38, 20-33"
-
   - geoffrey-reid:
     should-render: FALSE
     name:
@@ -1546,3 +1501,155 @@ entries:
             education:
               - degree: B.CS., Computer Science
                 school: Calvin University
+
+  - jack-gaither:
+    should-render: TRUE
+    name:
+      given: Jack
+      surname: Gaither
+      code: jack-gaither
+    title: Junior Research Software Engineer
+    group: Cloud & Interactive Computing (CIC)
+    phone: 512-475-9411
+    email: jgaither@tacc.utexas.edu
+
+  - nic-lewis:
+    should-render: TRUE
+    name:
+      given: Nic
+      surname: Lewis
+      code: nic-lewis
+    title: System Administrator I
+    group: Large Scale Systems
+    phone: 512-475-9411
+    email: nlewis@tacc.utexas.edu
+    url:
+      image:
+    biography: |-
+      Nic joins the Large Scale Systems team as their Systems Administrator I and will provide Linux systems administration and hardware support for HPC systems.  Prior to TACC, professionally, Nic worked in project management with a focus on client support and services. He takes great pride in his volunteer work within the open-source space and has spent a considerable amount of time working on and assisting with open-source projects and their respective communities. Through his work on open-source projects, he has acquired a lot of experience designing and building server infrastructures to fit the needs of highly dynamic projects with extremely limited resources.
+
+  - kevin-price:
+    should-render: TRUE
+    name:
+      given: Kevin
+      surname: Price
+      code: kevin-price
+    title: Junior Research Software Engineer
+    group: Advanced Computing Interfaces
+    phone: 512-475-9411
+    email: kprice@tacc.utexas.edu
+    url:
+      image:
+    biography: |-
+      Kevin joined TACC in 2022 as a Junior Research Software Engineer on the Cloud and Interactive Computing team. Before joining TACC, Kevin worked as a Software Developer for the UT Libraries and has been working in the IT field since 2015.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-education: TRUE
+            education:
+              - degree: B.S., Computer Science
+                school: Texas State University
+
+  - garrett-edmonds:
+    should-render: TRUE
+    name:
+      given: Garrett
+      surname: Edmonds
+      code: garrett-edmonds
+    title: Junior Research Software Engineer
+    group: Advanced Computing Interfaces, Web & Mobile Applications
+    phone: 512-475-9411
+    email: gedmonds@tacc.utexas.edu
+    url:
+      image:
+    biography: |-
+      Garrett joined TACC in August 2021 as a Professional Intern with the Web and Mobile Applications team of the Advanced Computing Interfaces group. On the WMA team, he primarily develops for the Core and Frontera Portals. Previously, he was a graduate student in Chemistry, where his research centered on modeling novel catalytic materials for alternative energy applications, and a Supplementary Instruction Supervisor at The University of Texas at Austin.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              - Core V2 and Frontera portals
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: B.S., Chemistry
+                school: University of Texas at Austin
+              - degree: 12 hours graduate coursework, Physical Chemistry
+                school: University of Texas at Austin
+              - degree: Certificate in Scientific Computation
+                school: University of Texas at Austin
+
+  - nathan-freeman:
+    should-render: TRUE
+    name:
+      given: Nathan
+      surname: Freeman
+      code: nathan-freeman
+    title: Junior Research Software Engineer
+    group: Advanced Computing Interfaces
+    phone: 512-475-9411
+    email: nfreeman@tacc.utexas.edu
+    url:
+      image:
+    biography: |-
+      Nathan joined the TACC team in mid-August of 2021 through the professional internship program. As a Junior Research Software Engineer with C.I.C, he will contribute to the development and design of new and existing cloud platforms and related UIs. Before working at TACC, his experience was in full-stack development. From 2015 to 2021, he developed and operated 2 software-as-a-service platforms in marketing automation and HR automation as well as a live-chat social media platform.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-projects: TRUE
+            projects:
+              -	Tapis UI
+              -	JupyterSCINCO CD pipeline
+              -	TapisV3-CLI
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: Diploma
+                school: Klein Collins High School
+
+  - Tabish Khan:
+    should-render: TRUE
+    name:
+      given: Tabish
+      surname: Khan
+      code: tabish-kahn
+    title: Project and Stakeholder Relationship Manager
+    group: Data Management & Collections
+    phone: 512-475-9411
+    email: tkhan@tacc.utexas.edu
+    url:
+      image:
+    biography: |-
+      Mr. Tabish Khan is joining the Texas Advanced Computing Center as the Project and Community Relations Manager to facilitate development of the Texas Disaster Information System (TDIS). With over 10 years of professional experience, he brings a broad range of skills including relationship management for technical industries in the renewable energy sector and a background in planning and strategic management as a former Air Force intelligence officer. Mr. Khan's graduate research at The University of Texas at Austin addressed climate resilience for water resource systems. In his research he developed a reusable analytics framework that he applied to more than 30 counties in Texas. His focus in the TDIS project will be on implementation science approaches for decision support systems.
+    info-rows:
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-research: TRUE
+            research:
+              -	Water Supply Resiliency
+              -	Texas Water Policy
+      - info-cols:
+          - layout:
+              colspan: 6
+            show-education: TRUE
+            education:
+              - degree: M.S., Earth and Energy Resources
+                school: The University of Texas at Austin
+              - degree: B.A., Sociology
+                school: University of North Texas
+      - info-cols:
+          - layout:
+              colspan: 12
+            show-projects: TRUE
+            projects:
+              -	Facilitating development and implementation of the TDIS
+              -	Developing stakeholder relationships and engagement with the TDIS
