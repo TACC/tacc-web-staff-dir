@@ -1320,7 +1320,7 @@ entries:
                 K. Barmak, J. Liu, L. Harlan, P. Xiao, <strong>J. Duncan</strong>, and G. Henkelman, “Transformation of Topologically Close-Packed β-W to Body-Centered Cubic α-W: Comparison of Experiments and Computations,” <em>J. Chem. Phys.</em> <strong>147</strong>, 152709 (2017). <a href="https://doi.org/10.1063/1.4995261">DOI</a>
 
   - wenyang-zhang:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Wenyang
       surname: Zhang
