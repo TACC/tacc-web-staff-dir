@@ -1512,6 +1512,9 @@ entries:
     group: Cloud & Interactive Computing (CIC)
     phone: 512-475-9411
     email: jgaither@tacc.utexas.edu
+    image_is_small: TRUE
+    url:
+      image: /documents/1084364/1085221/jack-gaither.jpg
 
   - nic-lewis:
     should-render: TRUE
@@ -1524,7 +1527,7 @@ entries:
     phone: 512-475-9411
     email: nlewis@tacc.utexas.edu
     url:
-      image:
+      image: /documents/1084364/1085221/nic-lewis.jpg
     biography: |-
       Nic joins the Large Scale Systems team as their Systems Administrator I and will provide Linux systems administration and hardware support for HPC systems.  Prior to TACC, professionally, Nic worked in project management with a focus on client support and services. He takes great pride in his volunteer work within the open-source space and has spent a considerable amount of time working on and assisting with open-source projects and their respective communities. Through his work on open-source projects, he has acquired a lot of experience designing and building server infrastructures to fit the needs of highly dynamic projects with extremely limited resources.
 
@@ -1539,7 +1542,7 @@ entries:
     phone: 512-475-9411
     email: kprice@tacc.utexas.edu
     url:
-      image:
+      image: /documents/1084364/1085221/kevin-price.jpg
     biography: |-
       Kevin joined TACC in 2022 as a Junior Research Software Engineer on the Cloud and Interactive Computing team. Before joining TACC, Kevin worked as a Software Developer for the UT Libraries and has been working in the IT field since 2015.
     info-rows:
@@ -1562,7 +1565,7 @@ entries:
     phone: 512-475-9411
     email: gedmonds@tacc.utexas.edu
     url:
-      image:
+      image: /documents/1084364/1085221/garrett-edmonds.jpg
     biography: |-
       Garrett joined TACC in August 2021 as a Professional Intern with the Web and Mobile Applications team of the Advanced Computing Interfaces group. On the WMA team, he primarily develops for the Core and Frontera Portals. Previously, he was a graduate student in Chemistry, where his research centered on modeling novel catalytic materials for alternative energy applications, and a Supplementary Instruction Supervisor at The University of Texas at Austin.
     info-rows:
@@ -1595,7 +1598,7 @@ entries:
     phone: 512-475-9411
     email: nfreeman@tacc.utexas.edu
     url:
-      image:
+      image: /documents/1084364/1085221/nathan-freeman.jpg
     biography: |-
       Nathan joined the TACC team in mid-August of 2021 through the professional internship program. As a Junior Research Software Engineer with C.I.C, he will contribute to the development and design of new and existing cloud platforms and related UIs. Before working at TACC, his experience was in full-stack development. From 2015 to 2021, he developed and operated 2 software-as-a-service platforms in marketing automation and HR automation as well as a live-chat social media platform.
     info-rows:
@@ -1625,8 +1628,9 @@ entries:
     group: Data Management & Collections
     phone: 512-475-9411
     email: tkhan@tacc.utexas.edu
+    image_is_small: TRUE
     url:
-      image:
+      image: /documents/1084364/1085221/tabish-khan.jpg
     biography: |-
       Mr. Tabish Khan is joining the Texas Advanced Computing Center as the Project and Community Relations Manager to facilitate development of the Texas Disaster Information System (TDIS). With over 10 years of professional experience, he brings a broad range of skills including relationship management for technical industries in the renewable energy sector and a background in planning and strategic management as a former Air Force intelligence officer. Mr. Khan's graduate research at The University of Texas at Austin addressed climate resilience for water resource systems. In his research he developed a reusable analytics framework that he applied to more than 30 counties in Texas. His focus in the TDIS project will be on implementation science approaches for decision support systems.
     info-rows:
