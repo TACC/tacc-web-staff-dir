@@ -2,6 +2,11 @@
 <!-- N/A: Use Web Content "ABOUT - Directory UT Austin Seal Picture" -->
 {{/url.image}}
 {{#url.image}}
+{{#image_is_small}}<style>
+.staff-img img.u-prevent-blowout {
+        max-width: fit-content; /* prevent image size exceeding resolution */
+}
+</style>{{/image_is_small}}
 <p>
-        <img alt="{{> name}}" class="img-responsive" src="{{{url.image}}}" /></p>
+        <img alt="{{> name}}" class="img-responsive{{#image_is_small}} u-prevent-blowout{{/image_is_small}}" src="{{{url.image}}}" /></p>
 {{/url.image}}
