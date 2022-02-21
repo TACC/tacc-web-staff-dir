@@ -1538,7 +1538,7 @@ entries:
       surname: Price
       code: kevin-price
     title: Junior Research Software Engineer
-    group: Advanced Computing Interfaces
+    group: Cloud & Interactive Computing (CIC)
     phone: 512-475-9411
     email: kprice@tacc.utexas.edu
     url:
@@ -1580,9 +1580,9 @@ entries:
               colspan: 6
             show-education: TRUE
             education:
-              - degree: B.S., Chemistry
-                school: University of Texas at Austin
               - degree: 12 hours graduate coursework, Physical Chemistry
+                school: University of Texas at Austin
+              - degree: B.S., Chemistry
                 school: University of Texas at Austin
               - degree: Certificate in Scientific Computation
                 school: University of Texas at Austin
@@ -1623,7 +1623,7 @@ entries:
     name:
       given: Tabish
       surname: Khan
-      code: tabish-kahn
+      code: tabish-khan
     title: Project and Stakeholder Relationship Manager
     group: Data Management & Collections
     phone: 512-475-9411
@@ -1641,7 +1641,6 @@ entries:
             research:
               -	Water Supply Resiliency
               -	Texas Water Policy
-      - info-cols:
           - layout:
               colspan: 6
             show-education: TRUE
