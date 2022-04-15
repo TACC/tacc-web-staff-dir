@@ -73,42 +73,6 @@ entries:
               - Book 1 of Things
               - Book 2 of Stuff
 
-  - tony-violante:
-    name:
-      given: Tony
-      surname: Violante
-      code: tony-violante
-    title: Engineering Scientist
-    group: Networking, Security, Operations
-    phone: +1 203.722.0453 (mobile)
-    email: tviolante@tacc.utexas.edu
-    url:
-      image: /documents/1084364/1085221/tony-violante.jpg
-    biography: |-
-      Tony joined TACC in the Fall of 2019 (from UT Center for Agile Technology working government cyber security accreditation contract for US Army). He is a member of the Networking, Security, and Operations team. Tony’s key areas of responsibility is Cybersecurity Accreditations in support of TACC Federal government-funded efforts.
-
-      Prior to joining TACC, Tony spent eight years with Army civilian as ERP Project Manager and as a financial manager. Stops along the way after undergrad college graduation (and prior to joining the US Army):
-
-      - US Navy (Submarines, Active Duty; Naval Intelligence, Reserve Duty).
-      - Johns Hopkins APL (weapons tactics development and system employment tests and modeling)
-      - Pitney Bowes, Technical Systems Div. (smart cards, PKI crypto apps., historian)
-      - IBM, Software Group (payment systems and smart cards) and Watson Research Center (orphan placement)
-    info-rows:
-      - info-cols:
-          - layout:
-              colspan: 6
-            show-projects: TRUE
-            projects:
-              - NIST Cybersecurity accreditations for TACC
-          - layout:
-              colspan: 6
-            show-education: TRUE
-            education:
-              - degree: B.S., Physics
-                school: U.S. Naval Academy
-              - degree: MBA, Finance
-                school: Rensselaer Polytechnic University
-
   - nashid-afreen:
     name:
       given: Nashid
@@ -361,39 +325,6 @@ entries:
                 school: Birla Institute of Technology, Ranchi, India
               - degree: Ph.D., Physics
                 school: Louisiana State University, Baton Rouge LA
-
-  - owais-jamil:
-    name:
-      given: Owais
-      surname: Jamil
-      code: owais-jamil
-    title: Engineering Scientist Associate
-    group: Networking, Security, and Operations
-    phone: 512-475-9411
-    email: ojamil@tacc.utexas.edu
-    url:
-      image: 
-
-  - janie-bushn:
-    name:
-      given: Janie
-      surname: Bushn
-      code: janie-bushn
-    title: Administrative Manager
-    group: Center Operations & Administration / Special Projects
-    phone: 512-232-3701
-    email: jbushn@tacc.utexas.edu
-    url:
-      image: /documents/1084364/1085221/JanieBushn.png
-    biography: |-
-      Janie Bushn has 30 years of experience at The University of Texas at Austin. At TACC, Janie serves in the role of providing coordination and execution of special projects. Prior to coming to TACC, Ms. Bushn worked with the High Performance Computing Facility, Texas Education Network, Charles A. Dana Center, and with the FIATECH initiative (Fully Integrated and Automated Technology) of the Construction Industry Institute.
-    info-rows:
-      - info-cols:
-          - layout:
-              colspan: 12
-            show-education: TRUE
-            education:
-              - degree: BBA, Management
 
   - stephen-harrell:
     name:
