@@ -1596,7 +1596,7 @@ entries:
             school: Trinity University
 
   - jessica-bradford:
-    should-render: FALSE
+    should-render: TRUE
     name:
       given: Jessica
       surname: Bradford
@@ -1606,7 +1606,7 @@ entries:
     phone: 512-475-9411
     email: jbradford@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/jessica-bradford.jpg
     biography: |-
       Jess Bradford is a member of the Center Operations & Administrative Team. She is responsible for providing administrative support for TACC projects and activities. Jess joined TACC in 2022. Prior to TACC, Jess served as the Undergraduate Academic Advising Coordinator with the Jackson School of Geosciences at The University of Texas at Austin.
 
