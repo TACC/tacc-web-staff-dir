@@ -1596,7 +1596,7 @@ entries:
             school: Trinity University
 
   - jessica-bradford:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Jessica
       surname: Bradford
@@ -1620,3 +1620,112 @@ entries:
             school: Texas State University – San Marcos
           - degree: M.Ed., Education
             school: Texas State University – San Marcos
+
+  - vanessa-gonzalez:
+    should-render: TRUE
+    name:
+      given: Vanessa
+      surname: Gonzalez
+      code: vanessa-gonzalez
+    title: Software Developer
+    group: Web & Mobile Applications Group
+    phone: 512-475-9411
+    email: vgonzalez@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/vanessa-gonzalez.jpg
+    biography: |-
+      Vanessa joined the Web and Mobile Applications team at TACC in June 2022 as a software developer and is assisting in the development of web portals. Before TACC, Vanessa worked as a Software Developer/Analyst for UT’s Academic Information Systems. Vanessa also taught high school math for 9 years.
+
+    info-rows:
+      info-cols:
+        - layout:
+            colspan: 12
+          show-education: TRUE
+          education:
+          - degree: B.A., Mathematics
+            school: Our Lady of the Lake University
+          - degree: M.M., Music Technology
+            school: New York University
+
+  - lydia-fletcher:
+    should-render: TRUE
+    name:
+      given: Lydia
+      surname: Fletcher
+      code: lydia-fletcher
+    title: Research Engineering/Scientist Associate III
+    group: Data Management & Collections
+    phone: 512-475-9411
+    email: lfletcher@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/lydia-fletcher.jpg
+    biography: |-
+      Lydia joined the TACC team in 2022 after a ten-year career as a STEM subject librarian serving physical and mathematical science communities. She specializes in data management and preservation, with experience providing consultation to users navigating mandates and requirements from funding agencies and publishers.
+
+    info-rows:
+      - info-cols:
+        - layout:
+            colspan: 6
+          show-research: TRUE
+          research:
+            - Scientific Data Curation
+            - Algorithmic Bias
+        - layout:
+            colspan: 12
+          show-education: TRUE
+          education:
+          - degree: B.A., English
+            school: University of Texas at San Antonio
+          - degree: M.St., English
+            school: University of Oxford
+          - degree: M.S., Information Studies
+            school: University of Texas at Austin
+
+  - william-mobley:
+    should-render: TRUE
+    name:
+      given: William
+      surname: Mobley
+      code: william-mobley
+    title: Research Associate
+    group: Data Management & Collections
+    phone: 512-475-9411
+    email: wmobley@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/william-mobley.jpg
+    biography: |-
+      Dr. Mobley joined the Multi Modal Applications Team in June of 2022. He is currently a research associate focusing on Robust Decision Making under uncertainty and Geospatial Applied Machine Learning. Previously Dr. Mobley was an Assistant Research Scientist at the Institute for Disaster Resilient Texas.
+
+    info-rows:
+      - info-cols:
+        - layout:
+            colspan: 6
+          show-research: TRUE
+          research:
+            - Robust Decision Making
+            - Natural Hazards Risk Assessments
+            - Applied Machine Learning
+            - Urban Resilience
+            - Spatial Analytics
+        - layout:
+            colspan: 6
+          show-projects: TRUE
+          projects:
+            - Texas Disaster Information System
+        - layout:
+            colspan: 12
+          show-publications: TRUE
+          publications:
+            - 'Yuan, F., <strong>Mobley, W.</strong>, Farahmand, H., Xu, Y., Blessing, R., Mostafavi, A., Brody, S. D. (revise and resubmit). Predicting Road Flooding Risk with Machine Learning Approaches Using Crowdsourced Reports and Fine-grained Traffic Data. <a href="https://arxiv.org/abs/2108.13265" target=_blank">arXiv preprint arXiv:2108.13265</a>.'
+            - '<strong>Mobley, W.</strong>, Sebastian, A., Blessing, R., Highfield, W. E., Stearns, L., and Brody, S. D.(2021) Quantification of Continuous Flood Hazard using Random Forrest Classification and Flood Insurance Claims at Large Spatial Scales: A Pilot Study in Southeast Texas, Nat. Hazards Earth Syst. Sci. Discuss., <a href="https://doi.org/10.5194/nhess-2020-347" target="_blank">https://doi.org/10.5194/nhess-2020-347</a>.'
+            - '<strong>Mobley, W.</strong>, Atoba, K. Highfield, W. (2020) Uncertainty in Flood Mitigation Practices: Assessing the Economic Benefits of Property Buyouts and Freeboard Elevation in Flood Prone Communities Sustainability, 12(5), 2098; <a href="https://doi.org/10.3390/su12052098" target="_blank">https://doi.org/10.3390/su12052098</a>.'
+        - layout:
+            colspan: 12
+          show-education: TRUE
+          education:
+          - degree: Ph.D. Urban & Regional Science
+            school: Texas A&M University (2017)
+          - degree: M.U.P.
+            school: University Wisconsin-Milwaukee (2013)
+          - degree: B.S.
+            school: University Wisconsin-La Crosse (2010)
