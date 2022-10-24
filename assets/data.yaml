@@ -1599,7 +1599,7 @@ entries:
             school: Texas State University – San Marcos
 
   - vanessa-gonzalez:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Vanessa
       surname: Gonzalez
@@ -1625,7 +1625,7 @@ entries:
             school: New York University
 
   - lydia-fletcher:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Lydia
       surname: Fletcher
