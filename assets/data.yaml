@@ -1718,7 +1718,7 @@ entries:
     phone: 512-475-9411
     email: skhan@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/shayan-khan.jpg
     biography: |-
       Shayan Khan is from Regina which is a city in the Saskatchewan province of Canada. He has a bachelor's degree in Software Systems Engineering and has been working as a Software Engineer for the past 2 ½  years contributing to various applications and systems. He loves to play video games and is always up to try new foods and places. He will be joining the Web and Mobile Applications team at TACC and is really excited to get started and begin contributing!
 
@@ -1747,7 +1747,7 @@ entries:
     phone: 512-475-9411
     email: jms@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/jennifer-schopf.jpg
     biography: |-
       Jennifer received her doctoral and master degrees in Computer Science and Engineering from University of California San Diego, where she worked with Fran Berman. She currently oversees the NSF Engagement and Performance Operations Center. Prior to joining TACC, she was director of the International Networks Program at Indiana University. She has also spent time as an NSF program officer, a senior staff member for Globus, and a program director at the IEEE Computer Society. She has held research appointments at the Woods Hole Oceanographic Institution, the University of Edinburgh, the University of Chicago, and Northwestern University. 
 
@@ -1762,6 +1762,8 @@ entries:
             - Networking measurement and monitoring
             - Cyberinfrastructure requirements gathering
             - End-to-end performance evaluation
+        - layout:
+            colspan: 12
           show-publications: TRUE
           publications:
             - '“The NetSage Measurement and Analysis Framework in Practice”, Jennifer M. Schopf, Katrina Turner, Dan Doyle, Andrew Lake, Jason Leigh, and Brian L. Tierney, Cluster Computer Journal Special Edition, November 2021, doi: 10.1007/s10586-021-03417-x, available online at  HYPERLINK "https://pubmed.ncbi.nlm.nih.gov/34776760/" https://pubmed.ncbi.nlm.nih.gov/34776760/.'
@@ -1769,11 +1771,15 @@ entries:
             - '“Monitoring Big Data Transfers Over International Research Network Connections”, A. Gonzales, J. Leigh, S. Peisert, B. Tierney, E. Balas, P. Radulovic, J. M. Schopf, **Proceedings of IEEE Big Data Congress 2017**, Honolulu, Hawaii, USA, June 25 - June 30, 2017.'
             - '“Report from the 2016 Cross Connects Workshop: Improving Data Mobility & Management for Bioinformatics”, Kathryn Petersen Mace, Daniel Jacobson, Brooklin Gore, Lauren Rotman, Jennifer Schopf, Mary Hester, Predrag Radulovic, and William Barnett, **Standards in Genomic Sciences**, 2016.'
             - '“Grid User Requirements: A Perspective from the Trenches”, Jennifer M. Schopf and Steven J. Newhouse, **Cluster Computing Journal**, Vol. 10, No. 3, September 2007, pp 311-322.'
+        - layout:
+            colspan: 12
           show-organizations: TRUE
           organizations:
             - Member of IEEE, CAN, AAAS
             - Member, Advisory Board for the National Institutes of Health African Centers of Excellence in Bioinformatics
             - Vice Chair, Advisory Board, Women in IT Networking at SC (WINS)
+        - layout:
+            colspan: 12
           show-education: TRUE
           education:
             - degree: "Ph.D., Computer Science, Thesis: Performance Prediction and Scheduling for Parallel Applications on Shared Clusters, Advisor: Dr. Francine Berman"
@@ -1794,7 +1800,7 @@ entries:
     phone: 512-475-9411
     email: jms@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/jung-who-nam.jpg
     biography: |-
       Jung Who Nam joined the Texas Advanced Computing Center in October 2022. He works on designing and implementing annotated, keyframed story-line visualization and gesture-based interaction frameworks with large-format displays. Before joining the center, he was a doctoral student at the University of Minnesota, Twin Cities. 
 
@@ -1837,18 +1843,18 @@ entries:
       - info-cols:
         - layout:
             colspan: 12
+          show-education: TRUE
+          education:
+            - degree: B.S., Applied Learning and Development
+              school: University of Texas at Austin
+        - layout:
+            colspan: 12
           custom_heading: Certifications
           show-custom_list--unordered: TRUE
           custom_list--unordered:
             - Generalist EC-4
             - Generalist 4-8
             - English as a Second Language Generalist EC-4
-        - layout:
-            colspan: 12
-          show-education: TRUE
-          education:
-            - degree: B.S., Applied Learning and Development
-              school: University of Texas at Austin
 
   - john-desantis:
     should-render: TRUE
@@ -1861,6 +1867,6 @@ entries:
     phone: 512-475-9411
     email: desantis@tacc.utexas.edu
     url:
-      image: 
+      image: /documents/1084364/1085221/john-desantis.jpg
     biography: |-
       John DeSantis joined TACC in October 2022 and is a Senior Systems Administrator with the Large Scale Systems team.  Prior to TACC, John served as a level 3 Systems Administrator for the University of South Florida’s HPC department, Research Computing.   He began as a Systems Administrator in November 2011 and by December 2013 he was responsible for the architecture, deployment, and management of the university’s HPC compute & storage systems, network fabrics, and various critical infrastructure.  Before entering the world of HPC, he was a Second Level Administrator for a hosting company from 2002 until 2011.  He has a combined total of almost 20 years of empirical systems experience.
