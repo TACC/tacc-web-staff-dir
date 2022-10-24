@@ -71,9 +71,8 @@
             {{^custom_heading}}<h2>Education</h2>{{/custom_heading}}
             {{#custom_heading}}<h2>{{custom_heading}}</h2>{{/custom_heading}}
             {{#education}}
-
-                <h4>{{#degree}}{{{degree}}}{{/degree}}{{^degree}}&mdash;{{/degree}}</h4>
-                {{#school}}<p>{{{school}}}{{#year}}, {{year}}{{/year}}</p>{{/school}}
+                <p>
+                    <strong>{{#degree}}{{{degree}}}{{/degree}}{{^degree}}&mdash;{{/degree}}</strong>{{#school}}<br />{{{school}}}{{#year}}, {{year}}{{/year}}{{/school}}</p>
             {{/education}}
             {{/show-education}}
             {{! Section: Publications }}

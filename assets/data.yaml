@@ -1757,13 +1757,6 @@ entries:
       - info-cols:
         - layout:
             colspan: 12
-          show-research: TRUE
-          research:
-            - Networking measurement and monitoring
-            - Cyberinfrastructure requirements gathering
-            - End-to-end performance evaluation
-        - layout:
-            colspan: 12
           show-publications: TRUE
           publications:
             - '“The NetSage Measurement and Analysis Framework in Practice”, Jennifer M. Schopf, Katrina Turner, Dan Doyle, Andrew Lake, Jason Leigh, and Brian L. Tierney, Cluster Computer Journal Special Edition, November 2021, doi: 10.1007/s10586-021-03417-x, available online at  HYPERLINK "https://pubmed.ncbi.nlm.nih.gov/34776760/" https://pubmed.ncbi.nlm.nih.gov/34776760/.'
@@ -1771,6 +1764,14 @@ entries:
             - '“Monitoring Big Data Transfers Over International Research Network Connections”, A. Gonzales, J. Leigh, S. Peisert, B. Tierney, E. Balas, P. Radulovic, J. M. Schopf, **Proceedings of IEEE Big Data Congress 2017**, Honolulu, Hawaii, USA, June 25 - June 30, 2017.'
             - '“Report from the 2016 Cross Connects Workshop: Improving Data Mobility & Management for Bioinformatics”, Kathryn Petersen Mace, Daniel Jacobson, Brooklin Gore, Lauren Rotman, Jennifer Schopf, Mary Hester, Predrag Radulovic, and William Barnett, **Standards in Genomic Sciences**, 2016.'
             - '“Grid User Requirements: A Perspective from the Trenches”, Jennifer M. Schopf and Steven J. Newhouse, **Cluster Computing Journal**, Vol. 10, No. 3, September 2007, pp 311-322.'
+      - info-cols:
+        - layout:
+            colspan: 12
+          show-research: TRUE
+          research:
+            - Networking measurement and monitoring
+            - Cyberinfrastructure requirements gathering
+            - End-to-end performance evaluation
         - layout:
             colspan: 12
           show-organizations: TRUE
@@ -1778,6 +1779,7 @@ entries:
             - Member of IEEE, CAN, AAAS
             - Member, Advisory Board for the National Institutes of Health African Centers of Excellence in Bioinformatics
             - Vice Chair, Advisory Board, Women in IT Networking at SC (WINS)
+      - info-cols:
         - layout:
             colspan: 12
           show-education: TRUE
@@ -1811,16 +1813,21 @@ entries:
     info-rows:
       - info-cols:
         - layout:
-            colspan: 12
+            colspan: 6
           show-research: TRUE
           research:
             - Scientific Data Visualization
             - Immersive Analytics
             - Data Storytelling
+        - layout:
+            colspan: 6
           show-projects: TRUE
           projects:
             - Collaborative Storytelling in High-end Scientific Visualization
             - Gesture-Based Interaction with Display-Wall Visualization
+      - info-cols:
+        - layout:
+            colspan: 6
           show-education: TRUE
           education:
             - degree: B.S., M.S., Ph.D., Computer Science
@@ -1837,20 +1844,20 @@ entries:
     phone: 512-475-9411
     email: jlau@tacc.utexas.edu
     url:
-      image: /documents/1084364/1085221/jung-who-nam.jpg
+      image: /documents/1084364/1085221/judy-lau.jpg
     biography: |-
       Judy joined TACC and EPIC as a Computer Science Professional Development Coordinator in October 2022 where she will be developing interactive and engaging curricula that aligns to the K-8 Texas Essential Knowledge and Skills for Technology Applications as it relates to computer science, computational thinking, and cybersecurity that can easily be integrated into core curricula. She will also be coordinating outreach activities and projects. Judy is a former educator with over 17 years as a classroom teacher, instructional coach, and district coordinator.
 
     info-rows:
       - info-cols:
         - layout:
-            colspan: 12
+            colspan: 6
           show-education: TRUE
           education:
             - degree: B.S., Applied Learning and Development
               school: University of Texas at Austin
         - layout:
-            colspan: 12
+            colspan: 6
           custom_heading: Certifications
           show-custom_list--unordered: TRUE
           custom_list--unordered:
@@ -1872,3 +1879,29 @@ entries:
       image: /documents/1084364/1085221/john-desantis.jpg
     biography: |-
       John DeSantis joined TACC in October 2022 and is a Senior Systems Administrator with the Large Scale Systems team.  Prior to TACC, John served as a level 3 Systems Administrator for the University of South Florida’s HPC department, Research Computing.   He began as a Systems Administrator in November 2011 and by December 2013 he was responsible for the architecture, deployment, and management of the university’s HPC compute & storage systems, network fabrics, and various critical infrastructure.  Before entering the world of HPC, he was a Second Level Administrator for a hosting company from 2002 until 2011.  He has a combined total of almost 20 years of empirical systems experience.
+
+  - sikan-li:
+    should-render: TRUE
+    name:
+      given: Sikan
+      surname: Li
+      code: sikan-li
+    title: Research Engineering/Scientist Associate III
+    group: Scalable Computational Intelligence (SCI)
+    phone: 512-475-9411
+    email: sli@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/sikan-li.jpg
+    biography: |-
+      Sikan Li will contribute to research, development, and support activities involving big data analysis, statistical analysis, and machine learning technologies and the interfaces by which users can transparently harness these techniques and technologies for the Scalable Computational Intelligence (SCI) group at TACC.
+ 
+      Prior to joining TACC, Sikan worked as a graduate research assistant specializing in scientific data visualization and she is enthusiastic to begin supporting high performance scalable data analysis and machine learning.
+
+    info-rows:
+      - info-cols:
+        - layout:
+            colspan: 6
+          show-education: TRUE
+          education:
+            - degree: M.S. in Electrical and Computer Engineering
+              school: University of Texas at Austin
