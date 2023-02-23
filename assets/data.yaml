@@ -1708,7 +1708,7 @@ entries:
             school: University Wisconsin-La Crosse (2010)
 
   - shayan-khan:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Shayan
       surname: Khan
@@ -1737,7 +1737,7 @@ entries:
               school: University of Regina
 
   - jennifer-schopf:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Jennifer
       surname: Schopf
@@ -1792,7 +1792,7 @@ entries:
               school: Vassar College, Poughkeepsie, NY
 
   - jung-who-nam:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Jung Who
       surname: Nam
@@ -1834,7 +1834,7 @@ entries:
               school: University of Minnesota, Twin Cities
 
   - judy-lau:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Judy
       surname: Lau
@@ -1866,7 +1866,7 @@ entries:
             - English as a Second Language Generalist EC-4
 
   - john-desantis:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: John
       surname: DeSantis
@@ -1881,7 +1881,7 @@ entries:
       John DeSantis joined TACC in October 2022 and is a Senior Systems Administrator with the Large Scale Systems team.  Prior to TACC, John served as a level 3 Systems Administrator for the University of South Florida’s HPC department, Research Computing.   He began as a Systems Administrator in November 2011 and by December 2013 he was responsible for the architecture, deployment, and management of the university’s HPC compute & storage systems, network fabrics, and various critical infrastructure.  Before entering the world of HPC, he was a Second Level Administrator for a hosting company from 2002 until 2011.  He has a combined total of almost 20 years of empirical systems experience.
 
   - sikan-li:
-    should-render: TRUE
+    should-render: FALSE
     name:
       given: Sikan
       surname: Li
