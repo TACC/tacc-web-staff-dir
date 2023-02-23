@@ -1905,3 +1905,82 @@ entries:
           education:
             - degree: M.S. in Electrical and Computer Engineering
               school: University of Texas at Austin
+
+  - mona-baniahmadi:
+    should-render: TRUE
+    name:
+      given: Mona
+      surname: Baniahmadi
+      code: mona-baniahmadi
+    title: Research Associate
+    group: EPIC STEM Evaluation Services
+    phone: 512-232-6032
+    email: mbaniahmadi@tacc.utexas.edu
+    url:
+      image: /documents/1084364/1085221/mona-baniahmadi.jpg
+    biography: |-
+      Mona Baniahmadi joined TACC in 2023 as a Research Associate in Expanding Pathways in Computing (EPIC), where she evaluates STEM education programs. Mona evaluates and supervises internal EPIC programs and external projects to assess the impact of various programs across K-12 and college settings. Before joining TACC, Mona worked as a research analyst at the Meadow Center for Preventing Educational Risk in the College of Education at UT Austin where she collaborated on a research project focused on mathematics and elementary teacher professional learning. Prior to her work at UT Austin, Mona received her Ed.D. in Educational Leadership from Duquesne University, Pittsburgh. PA. She has conducted research on elementary mathematics education, science and mathematics curriculum design, and teacher professional learning programs. Also, Mona is a former elementary and secondary teacher, higher education instructor, mentor, textbook author, and curriculum director with over ten years of experience in developing and implementing innovative teaching methods and instructional strategies to provide equal learning opportunities for students in classrooms.
+    info-rows:
+      - info-cols:
+        - layout:
+            colspan: 12
+          show-research: TRUE
+          research:
+            - STEM Education
+            - Teacher Professional Development
+            - Curriculum and Instruction 
+            - Equity in computer science education
+        - layout:
+            colspan: 12
+          show-projects: TRUE
+          projects:
+            - UT San Antonio NASA MIRO Center for Advanced Measurements in Extreme Environments
+            - Google CS First
+            - The University of Texas at Austin Charles A. Dana Center, Launch Years Initiative (LYI) 
+            - The University of Texas at Austin Charles A. Dana Center, Open Sci Ed High School (OSE)
+            - Noyce Scholarship program (Noyce)
+        - layout:
+            colspan: 12
+          show-publications: TRUE
+          publications:
+            - |-
+              Doherty, K., <b>Baniahmadi, M</b>., Sapkota, B. K., Newton, J., Olson, A. M., Wood, M., &amp; Drake, C. (In press). [Book Chapter]. Opportunities and Challenges from Surveying and Interviewing Elementary Teachers about Their Mathematics Curricular Decision-making. In (Eds.), <i>Lessons Learned from Research on Mathematics Curriculum. </i>Information Age Publishing.
+            - |-
+              <b>Baniahmadi, M. </b>&amp;<b> </b>Sapkota, B<b>. </b>(2023, April). Examining Elementary Teachers&#39; Selection of Mathematics Curricular Resources. In B. Sapkota. (Chair).<b> </b><i>Elementary teachers&rsquo; mathematics curricular decision-making: Multiple resources, multiple truths.</i> 2023 American Educational Research Association (AERA) Annual Meeting. Chicago, IL.
+            - |-
+              <b>Baniahmadi, M</b>. (2022). What Does It Mean to Be Coherent? Mathematics And Science Teachers Consider Coherency in Curriculum Decision Making (Doctoral dissertation, Duquesne University). Retrieved from <a href="https://dsc.duq.edu/etd/2080">https://dsc.duq.edu/etd/2080</a>
+            - |-
+              Giorgio-Doherty, K., <b>Baniahmadi, M.,</b> Sapkota, B. K., Newton, J., Olson, A. M., Wood, M., &amp; Drake, C. (2022). <i>Exploring Dissonance and Harmony in Elementary Mathematics Teachers&rsquo; Curricular Use, Autonomy, Decision-Making, and Coherence.</i> In D. Lischka, A. E., Dyer, E. B., Jones, R. S., Lovett, J. N., Strayer, J., &amp; Drown, S. (Eds.) The forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Nashville, TN.
+            - |-
+              <b>Baniahmadi, M., &amp;</b> Burrell, Sh. (2022). <i>The Efficacy of a Graduate-Level Methods Course in Preparing Science Teachers for Urban School Contexts. </i>National Consortium for Instruction and Cognition (NCIC). San Diego, CA.
+            - |-
+              <b>Baniahmadi, M</b>.; Giorgio-Doherty, K.; Olson, A. M.; Wood, M. B.; Sapkota, B. K.; Newton, J.; &amp; Drake, C. (2022). <i>Inconsistent Coherence: </i><i>Economic Contexts</i><i>, COVID-19, and the Ways Elementary Teachers Make Connections in Mathematical Content. </i>The Annual Meeting of the American Educational Research Association (AERA). San Diego, CA.
+            - |-
+              <b>Baniahmadi, M</b>., Olson, A.M., Wood, M. B., Giorgio-Doherty, K., Newton, J., Drake, C., &amp; Sapkota, B. K. (2021). Curriculum Resources and Decision-making: Findings from a National Survey of Elementary Mathematics Teachers. <i>Association of Mathematics Teacher Educators (AMTE) Connections Journal. </i>Available at: <a href="https://amte.net/connections/2021/12/curriculum-resources-and-decision-making-findings-national-survey-elementary">https://amte.net/connections/2021/12/curriculum-resources-and-decision-making-findings-national-survey-elementary</a>
+            - |-
+              Giorgio-Doherty, K., <b>Baniahmadi, M.,</b> Newton, J., Olson, A. M., Ferguson, K., Sammons, K., Wood, M., &amp; Drake, C. (2021). &quot;COVID and Curriculum: Elementary Teachers Report on the Challenges of Teaching and Learning Mathematics Remotely&quot;. <i>Journal of Multicultural Affairs</i>: Vol. 6: Iss. 2, Article 3. Available at: <a href="https://scholarworks.sfasu.edu/jma/vol6/iss2/3">https://scholarworks.sfasu.edu/jma/vol6/iss2/3</a>
+            - |-
+              <b>Baniahmadi, M</b>., Giorgio-Doherty, K., Sammons, K., Ferguson, K., Wood, M. B., Olson, A.M., Drake, C., &amp; Newton, J. (2021). Use of Teacher-Created Curricular Resources by Elementary Mathematics Teachers: Before and During the COVID-19 Pandemic. In D. Olanoff, K. Johnson, &amp; S. Spitzer, (Eds.) <i>Proceedings of the forty-third annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education</i> (p.100). Philadelphia, PA: Widener University, Towson University, &amp; West Chester University. <a href="https://nam02.safelinks.protection.outlook.com/?url=https%253A%252F%252Fbit.ly%252FPMEproceed&amp;data=04%257C01%257Cbaniahmadim%2540duq.edu%257C456c4e835bff442efaaa08d9997c8abf%257C12c44311cf844e4195c38df690b1eb61%257C0%257C0%257C637709582456731507%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C1000&amp;sdata=xcILjROfoXwqcIBE6W5RmFHotc39nQ6Ce12fH6g8aco%253D&amp;reserved=0">https://bit.ly/PMEproceed</a>
+            - |-
+              <b>Baniahmadi, M</b>. &amp; Olson, A. M. (2021). Teacher collaborations to create curricular coherence: shifts during COVID-19. <i>In Duquesne Scholarship Collection: Graduate Research Symposium (GRS)</i>. Pittsburgh, PA: Duquesne University. Available at: <a href="https://dsc.duq.edu/gsrs/2021/proceedings/7">https://dsc.duq.edu/gsrs/2021/proceedings/7</a>
+            - |-
+              <b>Baniahmadi, M</b>.; Wood, M. B.; Drake, C.; Olson, A. M.; Newton, J.; Giorgio-Doherty, K.; Ferguson, K.; &amp; Sammons, K. (2021, May). <i>Mathematics curriculum and COVID-19: Implications for equity. </i>TERC STEM for all Video Showcase.
+            - |-
+              <b>Baniahmadi, M.</b> (2014, 2015, 2016). Science Textbook<i>.</i> In S. Haghanifar (Ed.), <i>Kanoon Farhangi Amoozesh (Ghalamchi Educational Foundation yearbook).</i> Tehran, Iran. Ghalamchi Educational Foundation press<i>. </i>(In Farsi)'
+        - layout:
+            colspan: 12
+          show-education: TRUE
+          education:
+            - degree: Ed.D. Doctor of Education in Educational Leadership
+              school: Duquesne University, Pittsburgh. P
+            - degree: M.S. Human Resource Management
+              school: University of Naragh, Markazi. Iran
+            - degree: B.S. General Biology
+              school: University of Esfahan, Esfahan. Iran
+        - layout:
+            colspan: 12
+          show-organizations: TRUE
+          organizations:
+            - American Educational Research Association (AERA)
+            - North American Chapter for the International Group for the Psychology of Mathematics Education (PME-NA)
+            - Association of Mathematics Teachers Educators (AMTE)
